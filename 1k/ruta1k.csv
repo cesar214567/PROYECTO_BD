@@ -1,0 +1,36 @@
+id_ruta,Destino,Llegada
+Pas-Are,Pasco,Arequipa
+Caj-Piu,Cajamarca,Piura
+Cus-Pas,Cusco,Pasco
+Cal-Lam,Callao,Lambayeque
+Aya-La ,Ayacucho,La Libertad
+Cus-Cal,Cusco,Callao
+La -Tac,La Libertad,Tacna
+Aya-Moq,Ayacucho,Moquegua
+Hua-Cus,Huanuco,Cusco
+Lam-Lor,Lambayeque,Loreto
+Cal-Moq,Callao,Moquegua
+Tac-Jun,Tacna,Junin
+Hua-Tac,Huanuco,Tacna
+Tum-Tac,Tumbes,Tacna
+Hua-Jun,Huancavelica,Junin
+Tum-Are,Tumbes,Arequipa
+Mad-Aya,Madre De Dios,Ayacucho
+Tac-Hua,Tacna,Huancavelica
+Lim-Are,Lima,Arequipa
+Pun-San,Puno,San Martin
+Pun-Mad,Puno,Madre De Dios
+Anc-Cal,Ancash,Callao
+Ama-Lor,Amazonas,Loreto
+Tac-Cus,Tacna,Cusco
+Hua-San,Huanuco,San Martin
+Pas-Pun,Pasco,Puno
+San-Pas,San Martin,Pasco
+Pas-Aya,Pasco,Ayacucho
+Cal-Mad,Callao,Madre De Dios
+Hua-Ama,Huanuco,Amazonas
+Anc-San,Ancash,San Martin
+Moq-Lor,Moquegua,Loreto
+Ama-Lim,Amazonas,Lima
+Lam-Jun,Lambayeque,Junin
+Tum-Hua,Tumbes,Huancavelica

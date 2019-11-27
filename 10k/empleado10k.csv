@@ -1,0 +1,501 @@
+DNI_Empleado,DNI_Administrador,Nombre,Apellido_Materno,Apellido_Paterno,Fecha_Nac,Direccion,DepartamentoNombre,AgenciaNombre
+10114080,,Leora,Moore,Martinez,1974-3-18,-12.24/-77.20,Asistentes,Paita Terminal
+65070340,,Reyna,Thompson,Thompson,1976-7-17,-12.30/-77.04,Limpieza,Chimbote
+41256582,,Aurora,Johnson,Garcia,1980-6-19,-12.62/-77.54,Limpieza,Oficina Juan Pablo
+62040062,,Vassie,Smith,Martin,1996-2-0,-12.41/-77.64,Asistentes,Talara
+65627561,,Cherrelle,Wilson,Lee,1985-5-11,-12.25/-77.75,Conductores,Piura Terminal
+82128089,,Mae,Williams,Miller,1991-3-2,-12.39/-77.73,Asistentes,Máncora
+51966793,41256582,Billy,Rodriguez,Wilson,1990-5-4,-12.93/-77.52,Limpieza,Paita
+22152875,62040062,Jaxon,Martin,Garcia,1988-4-20,-12.36/-77.53,Ventas,Oficina Bolivar
+20584976,62040062,Ami,Thompson,Wilson,1990-8-24,-12.36/-77.32,Ventas,Máncora
+93449092,41256582,Clide,Miller,Thompson,1972-2-25,-12.12/-77.03,Asistentes,Máncora
+92206030,41256582,Leah,Williams,Jones,1992-3-14,-12.78/-77.74,Limpieza,Oficina Juan Pablo
+60654060,41256582,Infant,Davis,Williams,1991-5-19,-12.81/-77.55,Ventas,Plaza Norte
+73557341,41256582,Mitch,Miller,Jones,1979-12-17,-12.25/-77.35,Ventas,Paita
+34930117,62040062,Mikeal,Johnson,Davis,1997-2-9,-12.25/-77.18,Conductores,Los Organos
+92567202,65070340,Coley,Garcia,Wilson,1981-1-13,-12.14/-77.83,Limpieza,Talara
+98063504,10114080,Henri,Miller,Thompson,1998-8-11,-12.64/-77.74,Ventas,Tumbes
+11321956,10114080,Lemuel,Jones,Martinez,1991-9-13,-12.97/-77.09,Conductores,Los Organos
+75697354,41256582,Dollie,White,Jackson,1973-1-9,-12.15/-77.24,Limpieza,Chiclayo
+81765475,62040062,Buelah,Brown,Anderson,1996-9-3,-12.75/-77.23,Limpieza,Plaza Norte
+91896621,65070340,Edw,Martin,Miller,1978-9-26,-12.14/-77.20,Ventas,Plaza Norte
+72372047,62040062,Ovila,Davis,Taylor,1993-10-18,-12.84/-77.76,Asistentes,Máncora
+38512232,65070340,Andreas,Anderson,Johnson,1993-2-3,-12.90/-77.66,Conductores,Piura Terminal
+40483961,10114080,Shirleen,Miller,Jackson,1991-8-27,-12.73/-77.88,Conductores,Chimbote
+13979186,41256582,Wava,Miller,Miller,1994-10-23,-12.22/-77.00,Asistentes,Sullana
+94040530,41256582,Demond,Martin,Rodriguez,1984-12-6,-12.93/-77.48,Ventas,Talara
+12423856,10114080,Will,Johnson,Garcia,1977-10-9,-12.83/-77.81,Conductores,Talara
+27126635,62040062,Thekla,Davis,Jones,1973-1-9,-12.76/-77.39,Limpieza,Plaza Norte
+40816110,41256582,Cathey,Taylor,White,1993-4-19,-12.77/-77.06,Limpieza,Máncora
+81222001,10114080,Zelma,Thomas,Wilson,1999-8-22,-12.22/-77.41,Conductores,Terrapuerto Trujillo
+88698366,65070340,Roland,Brown,Garcia,1974-1-21,-12.79/-77.98,Asistentes,Oficina Bolivar
+49229541,65070340,Earnest,Jackson,Moore,1989-5-11,-12.68/-77.63,Ventas,Paita
+99345216,41256582,Fielding,Johnson,Lee,1980-11-6,-12.22/-77.69,Conductores,Oficina Bolivar
+64144139,62040062,Alvie,Thompson,Jackson,1977-5-12,-12.43/-77.68,Conductores,Lima
+71105526,10114080,Danika,Thomas,Jackson,1989-6-18,-12.76/-77.12,Asistentes,Plaza Norte
+86972430,41256582,Stanislaus,Jones,Johnson,1989-5-13,-12.41/-77.50,Limpieza,Talara
+21562137,41256582,Cleva,Garcia,Thompson,1983-3-23,-12.42/-77.54,Asistentes,Sullana
+08585947,62040062,Chelsey,Thompson,Anderson,1979-3-13,-12.25/-77.04,Asistentes,Máncora
+48278632,65070340,Marnita,Davis,Jackson,1993-9-7,-12.33/-77.85,Conductores,Terrapuerto Trujillo
+76077793,65070340,Reese,Moore,Taylor,1972-2-7,-12.01/-77.52,Limpieza,Lima
+53839484,65070340,Nathan,Smith,Miller,1991-1-14,-12.78/-77.95,Limpieza,Chimbote
+25042164,41256582,Izola,Smith,Taylor,1983-2-15,-12.28/-77.86,Ventas,Oficina Bolivar
+96196173,65070340,Huy,Smith,Johnson,1983-2-4,-12.99/-77.54,Ventas,Chimbote
+68810747,65070340,Seymour,Martin,Miller,1976-3-9,-12.06/-77.52,Limpieza,Tumbes
+75948842,10114080,Alanzo,Williams,Jones,1994-11-24,-12.05/-77.93,Conductores,Sullana
+67780592,62040062,Alonso,Thomas,Davis,1981-3-0,-12.05/-77.19,Conductores,Tumbes
+30956761,62040062,Orange,Miller,Anderson,1984-3-24,-12.63/-77.47,Asistentes,Paita Terminal
+11230059,10114080,Lawrance,Martinez,Thompson,1997-12-7,-12.92/-77.05,Asistentes,Los Organos
+84846316,65070340,Carroll,Martin,Thompson,1980-6-14,-12.53/-77.82,Asistentes,Chimbote
+05216733,62040062,Aspen,Anderson,Miller,1975-6-2,-12.82/-77.53,Ventas,Oficina Juan Pablo
+93345919,41256582,Faith,Thompson,Thomas,1979-6-23,-12.13/-77.66,Limpieza,Máncora
+14134517,41256582,Vita,Martinez,Wilson,1989-5-18,-12.05/-77.65,Asistentes,Máncora
+66416942,10114080,Starling,Smith,Jackson,1976-5-16,-12.89/-77.27,Ventas,Oficina Bolivar
+18964581,41256582,Johnathan,Martinez,Rodriguez,1979-7-4,-12.42/-77.61,Ventas,Oficina Juan Pablo
+95457464,41256582,Corene,Garcia,Garcia,1982-7-17,-12.98/-77.81,Limpieza,Terrapuerto Trujillo
+78452693,10114080,Luvinia,White,Moore,1986-10-26,-12.21/-77.72,Limpieza,Piura Terminal
+13469470,41256582,Erick,Martinez,Garcia,1970-5-7,-12.25/-77.59,Limpieza,Piura Terminal
+39267509,62040062,Litzy,Davis,Williams,1986-10-1,-12.22/-77.13,Limpieza,Máncora
+31733572,65070340,Rowan,Jones,Smith,1975-2-7,-12.43/-77.38,Conductores,Paita Terminal
+30978411,65070340,Enos,Rodriguez,Lee,1998-12-1,-12.23/-77.33,Asistentes,Chiclayo
+87272740,10114080,Korbin,Smith,Jones,1996-11-20,-12.03/-77.48,Asistentes,Sullana
+23413049,65070340,Zelpha,Moore,Rodriguez,1973-1-15,-12.23/-77.78,Limpieza,Tumbes
+79996494,10114080,Fernanda,Brown,Williams,1973-1-23,-12.26/-77.29,Ventas,Piura Terminal
+59762081,65070340,Dave,Anderson,White,1996-5-4,-12.07/-77.79,Asistentes,Chiclayo
+29618357,62040062,Ozella,Davis,Anderson,1973-10-11,-12.01/-77.93,Conductores,Oficina Bolivar
+41196997,65070340,Rutha,Rodriguez,Jackson,1980-7-15,-12.41/-77.80,Limpieza,Máncora
+67260386,65070340,Letta,Anderson,Lee,1989-9-25,-12.08/-77.03,Ventas,Máncora
+67444596,65070340,Meda,Thomas,Garcia,1972-1-19,-12.58/-77.60,Asistentes,Paita Terminal
+12456550,65070340,Tammie,White,Moore,1993-11-10,-12.08/-77.93,Asistentes,Terrapuerto Trujillo
+43381431,65070340,Mercer,Rodriguez,Jackson,1994-9-5,-12.59/-77.70,Asistentes,Chiclayo
+38096821,10114080,Rose,Johnson,Williams,1973-3-24,-12.52/-77.79,Asistentes,Máncora
+47844794,41256582,Beau,White,Johnson,1990-10-9,-12.39/-77.14,Conductores,Paita Terminal
+48783165,65070340,Katheryn,Miller,Martinez,1975-7-16,-12.19/-77.96,Conductores,Paita
+71345499,65070340,Eola,Thomas,Jones,1982-2-8,-12.91/-77.96,Limpieza,Tumbes
+65224450,65070340,Misael,Brown,Anderson,1972-3-20,-12.99/-77.03,Limpieza,Chiclayo
+66513821,41256582,Wendell,Jackson,Lee,1985-10-10,-12.78/-77.37,Ventas,Los Organos
+83724819,65070340,Beecher,Martin,Williams,1976-9-26,-12.50/-77.26,Conductores,Paita Terminal
+17143140,10114080,Alexandria,Garcia,Jones,1975-2-23,-12.37/-77.12,Ventas,Sullana
+56976942,10114080,Myron,Wilson,Miller,1982-11-0,-12.39/-77.31,Ventas,Chiclayo
+90586248,10114080,Ardis,Wilson,Johnson,1980-2-6,-12.39/-77.39,Limpieza,Paita
+66567418,65070340,Pluma,White,Davis,1990-10-12,-12.50/-77.68,Conductores,Paita Terminal
+77469398,10114080,Ashleigh,Davis,Wilson,1985-7-7,-12.31/-77.21,Conductores,Lima
+82298556,41256582,Aliyah,Johnson,Lee,1998-7-14,-12.94/-77.59,Asistentes,Tumbes
+39307430,41256582,Kristyn,Thompson,Brown,1988-11-23,-12.08/-77.32,Limpieza,Piura Terminal
+67463174,62040062,Cynthia,Rodriguez,Williams,1992-12-21,-12.44/-77.91,Ventas,Chiclayo
+70997712,10114080,Leslee,Lee,Jackson,1970-3-12,-12.18/-77.55,Asistentes,Chiclayo
+39816457,41256582,Rondal,Wilson,Davis,1992-1-7,-12.01/-77.27,Ventas,Paita
+12206334,62040062,Kiley,Moore,Smith,1984-11-25,-12.95/-77.06,Asistentes,Chimbote
+37257554,10114080,Nilda,Lee,Jackson,1973-4-4,-12.05/-77.96,Limpieza,Paita Terminal
+28040536,62040062,Antwain,Taylor,Miller,1981-8-9,-12.68/-77.49,Limpieza,Lima
+51494090,41256582,Christen,Miller,White,1993-2-9,-12.79/-77.36,Ventas,Talara
+54748627,62040062,Carlene,Garcia,Davis,1987-10-0,-12.96/-77.74,Asistentes,Paita Terminal
+40039005,65070340,Jerrilyn,Thompson,Taylor,1980-11-5,-12.26/-77.87,Ventas,Tumbes
+29703318,62040062,Tommie,Brown,Thomas,1997-4-19,-12.41/-77.38,Conductores,Chimbote
+33575194,62040062,Bula,Wilson,White,1995-4-28,-12.45/-77.78,Limpieza,Terrapuerto Trujillo
+28156414,10114080,Grisel,Williams,Martinez,1992-11-25,-12.59/-77.07,Limpieza,Chimbote
+27732383,65070340,Letty,Wilson,Rodriguez,1994-7-1,-12.81/-77.43,Asistentes,Sullana
+63569738,62040062,Jovita,Jones,Wilson,1972-7-24,-12.75/-77.51,Asistentes,Paita
+88188271,41256582,Jossie,Anderson,Garcia,1994-10-22,-12.83/-77.89,Ventas,Máncora
+39287070,41256582,Nicole,Lee,Thomas,1973-2-18,-12.74/-77.10,Conductores,Chimbote
+45537046,62040062,Georgie,Anderson,Thompson,1984-7-26,-12.24/-77.19,Ventas,Paita
+20038431,65070340,Beverlee,Martin,Johnson,1984-6-11,-12.99/-77.38,Ventas,Terrapuerto Trujillo
+84336757,62040062,Philomena,Lee,Martin,1994-2-15,-12.27/-77.21,Asistentes,Chiclayo
+66587477,10114080,Ella,Martin,White,1978-4-2,-12.71/-77.88,Conductores,Tumbes
+89496437,10114080,Frederic,Davis,Davis,1983-12-8,-12.41/-77.88,Asistentes,Paita Terminal
+48859228,65070340,Gilford,Miller,Jackson,1978-7-11,-12.20/-77.39,Conductores,Oficina Juan Pablo
+20893133,41256582,Captain,Garcia,Anderson,1996-5-10,-12.43/-77.66,Ventas,Paita
+32517756,62040062,Tilda,Jackson,Taylor,1992-5-17,-12.23/-77.66,Ventas,Terrapuerto Trujillo
+11557913,41256582,Adilene,Anderson,Lee,1980-11-4,-12.53/-77.03,Asistentes,Paita
+86878214,62040062,Twila,Wilson,Martin,1973-8-3,-12.09/-77.20,Conductores,Oficina Bolivar
+65941415,10114080,Kareem,Anderson,Moore,1995-6-18,-12.04/-77.73,Ventas,Chimbote
+72714836,10114080,Terese,Miller,Martin,1989-7-0,-12.55/-77.60,Ventas,Los Organos
+01113536,65070340,Kia,Taylor,Wilson,1972-7-15,-12.03/-77.88,Ventas,Lima
+71096578,10114080,Newman,Thompson,Brown,1994-10-26,-12.47/-77.32,Conductores,Lima
+55695125,62040062,Rosalie,Martinez,Miller,1999-9-1,-12.01/-77.83,Ventas,Máncora
+52188042,62040062,Jeff,Thompson,Lee,1978-5-13,-12.90/-77.29,Ventas,Chimbote
+13251356,41256582,Maralyn,Garcia,Anderson,1997-7-1,-12.97/-77.28,Conductores,Oficina Juan Pablo
+10058269,62040062,Chelsi,Taylor,Taylor,1989-5-27,-12.94/-77.08,Ventas,Chiclayo
+40838646,10114080,Harm,Thomas,Jackson,1981-1-26,-12.68/-77.45,Asistentes,Chiclayo
+67143631,65070340,Kamilah,Wilson,Anderson,1992-7-0,-12.27/-77.11,Asistentes,Máncora
+79452238,62040062,Jessenia,Jackson,Wilson,1975-4-26,-12.09/-77.59,Limpieza,Tumbes
+79022746,65070340,Hung,Jones,Miller,1988-2-8,-12.75/-77.86,Ventas,Lima
+89253372,41256582,Fernanda,Brown,Williams,1978-3-4,-12.90/-77.61,Ventas,Talara
+24278967,41256582,Amira,Rodriguez,Williams,1997-2-5,-12.84/-77.29,Ventas,Piura Terminal
+75029212,41256582,Santina,Jackson,Miller,1970-11-0,-12.19/-77.89,Conductores,Piura Terminal
+42690009,41256582,Serina,Jones,Moore,1984-11-24,-12.18/-77.13,Ventas,Talara
+92614645,41256582,Reatha,Garcia,Jones,1990-1-25,-12.61/-77.34,Asistentes,Oficina Bolivar
+89601436,65070340,Mathilde,Lee,Smith,1984-4-3,-12.78/-77.25,Ventas,Paita
+78351647,41256582,Onnie,Taylor,Smith,1970-6-8,-12.61/-77.41,Limpieza,Los Organos
+57596361,41256582,Everett,Johnson,Garcia,1994-10-20,-12.42/-77.68,Conductores,Tumbes
+06852125,65070340,Elois,Miller,White,1981-1-25,-12.12/-77.14,Ventas,Sullana
+21852210,10114080,Loreen,Jones,Smith,1992-2-11,-12.87/-77.12,Limpieza,Plaza Norte
+81452688,41256582,Elisabeth,Martin,Taylor,1991-8-22,-12.08/-77.04,Asistentes,Los Organos
+73814518,62040062,Armin,Rodriguez,Martinez,1977-7-17,-12.04/-77.43,Conductores,Chimbote
+95687583,62040062,Selmer,Moore,Martinez,1976-7-21,-12.09/-77.04,Conductores,Piura Terminal
+79154578,62040062,Pinkney,Wilson,Moore,1993-2-2,-12.41/-77.04,Ventas,Máncora
+10079974,10114080,Long,Jones,Miller,1997-2-1,-12.14/-77.16,Conductores,Oficina Juan Pablo
+24194440,62040062,Jay,Brown,Taylor,1997-5-6,-12.54/-77.33,Conductores,Chimbote
+19289697,62040062,Abbey,Brown,Miller,1982-4-26,-12.31/-77.75,Ventas,Sullana
+38992565,41256582,Dimitri,Davis,Johnson,1970-12-20,-12.00/-77.10,Conductores,Talara
+47440797,10114080,Claude,Thomas,Jackson,1970-12-14,-12.71/-77.77,Ventas,Piura Terminal
+76869091,41256582,Vern,Martinez,Johnson,1998-1-7,-12.02/-77.35,Ventas,Lima
+96447524,10114080,Edla,Thompson,Williams,1972-6-24,-12.40/-77.92,Limpieza,Paita Terminal
+07297692,62040062,Hervey,Martinez,Rodriguez,1980-10-0,-12.45/-77.95,Asistentes,Tumbes
+63116458,41256582,Tawanda,Brown,Martin,1974-8-25,-12.05/-77.44,Conductores,Lima
+38800375,65070340,Pam,Rodriguez,White,1992-4-4,-12.73/-77.14,Asistentes,Oficina Bolivar
+42371877,10114080,Macy,Johnson,Brown,1998-4-25,-12.11/-77.87,Asistentes,Oficina Bolivar
+65675051,62040062,Jamya,Anderson,Davis,1999-2-8,-12.89/-77.80,Conductores,Paita Terminal
+01635775,10114080,Corrina,Thompson,Lee,1991-5-19,-12.90/-77.57,Ventas,Los Organos
+01285165,62040062,Roxane,Garcia,Brown,1981-1-23,-12.57/-77.66,Asistentes,Los Organos
+31669676,65070340,Laurene,Smith,Johnson,1974-10-16,-12.62/-77.16,Limpieza,Plaza Norte
+78157015,62040062,Lilia,Anderson,Jackson,1979-4-20,-12.67/-77.73,Conductores,Máncora
+75300888,65070340,Forest,Johnson,White,1988-9-23,-12.94/-77.79,Asistentes,Chiclayo
+25612677,41256582,Opha,Garcia,White,1990-8-21,-12.20/-77.09,Conductores,Talara
+18937558,62040062,Clemma,Smith,Jones,1988-8-1,-12.10/-77.90,Ventas,Plaza Norte
+36558799,41256582,Mildred,Martinez,Wilson,1990-11-17,-12.94/-77.18,Ventas,Los Organos
+35001221,62040062,Zachary,Williams,Rodriguez,1977-6-10,-12.94/-77.38,Conductores,Chiclayo
+50853461,10114080,Ivey,White,Brown,1988-3-22,-12.58/-77.20,Ventas,Lima
+73205695,10114080,Fletcher,Moore,Brown,1987-1-16,-12.74/-77.05,Asistentes,Tumbes
+74010061,41256582,Tucker,Jones,Jones,1982-10-25,-12.62/-77.36,Conductores,Plaza Norte
+46789166,10114080,Craig,Thompson,Davis,1990-4-15,-12.43/-77.01,Ventas,Chiclayo
+52062440,62040062,Dannie,Davis,Smith,1983-1-13,-12.64/-77.00,Limpieza,Tumbes
+73603946,65070340,Kya,Moore,Williams,1979-9-2,-12.85/-77.06,Conductores,Piura Terminal
+08967547,62040062,Nicki,Martinez,Smith,1986-1-28,-12.96/-77.18,Asistentes,Chimbote
+28883689,41256582,Amani,Rodriguez,Thompson,1978-9-3,-12.56/-77.13,Limpieza,Terrapuerto Trujillo
+05663251,65070340,Sheridan,Moore,Johnson,1998-5-22,-12.58/-77.77,Conductores,Paita Terminal
+53521294,41256582,Akira,Martin,Garcia,1975-4-11,-12.41/-77.83,Conductores,Paita Terminal
+29840710,10114080,Rollin,Thompson,Lee,1999-4-6,-12.43/-77.31,Ventas,Tumbes
+73386629,62040062,Izayah,Wilson,Martinez,1996-12-4,-12.22/-77.35,Ventas,Sullana
+33060601,65070340,Casper,Martinez,Lee,1998-12-10,-12.38/-77.08,Conductores,Tumbes
+13323648,65070340,Elena,Jackson,Moore,1974-3-3,-12.60/-77.18,Ventas,Los Organos
+29794522,10114080,Parley,Rodriguez,Thompson,1990-9-20,-12.53/-77.79,Asistentes,Oficina Juan Pablo
+87549509,41256582,Zeb,Smith,Davis,1983-9-19,-12.62/-77.54,Conductores,Talara
+30453712,65070340,Eva,Thompson,Williams,1985-1-6,-12.61/-77.15,Ventas,Lima
+48885142,65070340,Council,Martin,White,1983-9-3,-12.79/-77.20,Limpieza,Oficina Juan Pablo
+14475552,62040062,Gladys,Anderson,Jackson,1982-12-9,-12.80/-77.49,Ventas,Los Organos
+18379479,62040062,Clytie,Jackson,Jackson,1999-1-0,-12.06/-77.27,Conductores,Lima
+72089080,65070340,Averie,Martinez,Taylor,1990-10-21,-12.87/-77.61,Ventas,Tumbes
+57819438,62040062,Sybil,Rodriguez,Rodriguez,1995-5-13,-12.95/-77.46,Conductores,Terrapuerto Trujillo
+54541334,41256582,Ferrell,Garcia,Anderson,1976-1-11,-12.38/-77.15,Conductores,Máncora
+90106712,10114080,Tyesha,Jones,Jackson,1978-4-18,-12.44/-77.98,Asistentes,Oficina Bolivar
+41682618,65070340,Camden,Thomas,Garcia,1989-12-18,-12.31/-77.56,Asistentes,Chimbote
+06929460,65070340,Porsha,Miller,Smith,1979-7-11,-12.17/-77.95,Conductores,Chimbote
+67644871,65070340,Early,Thomas,Williams,1985-8-26,-12.39/-77.88,Asistentes,Talara
+55333068,65070340,Thornton,Thompson,Thomas,1990-5-6,-12.16/-77.32,Limpieza,Máncora
+16428478,65070340,Letty,Taylor,Taylor,1999-12-13,-12.34/-77.17,Asistentes,Piura Terminal
+01173707,41256582,Doris,Martin,White,1993-1-9,-12.18/-77.76,Limpieza,Sullana
+23918448,65070340,Doss,Wilson,Lee,1977-4-21,-12.64/-77.41,Asistentes,Talara
+81913920,65070340,Titus,Anderson,Smith,1978-8-11,-12.72/-77.66,Limpieza,Paita
+86090571,65070340,Keegan,Taylor,Miller,1982-4-16,-12.95/-77.97,Conductores,Sullana
+29611817,65070340,Crawford,Davis,Williams,1975-4-12,-12.76/-77.60,Ventas,Máncora
+08566253,62040062,Trenton,Rodriguez,Wilson,1974-2-8,-12.97/-77.86,Asistentes,Oficina Bolivar
+71046836,62040062,Babette,Martin,Lee,1985-5-15,-12.83/-77.89,Limpieza,Oficina Bolivar
+44710627,65070340,Regena,Moore,Taylor,1994-9-13,-12.00/-77.30,Ventas,Chimbote
+87426738,62040062,Sincere,Rodriguez,Moore,1993-7-2,-12.36/-77.96,Limpieza,Talara
+24766768,62040062,Margarita,Garcia,Thompson,1971-4-15,-12.25/-77.80,Conductores,Chiclayo
+51271907,62040062,Joette,Taylor,Moore,1992-3-4,-12.48/-77.66,Ventas,Piura Terminal
+20274994,62040062,Laquita,Lee,Taylor,1995-9-1,-12.32/-77.35,Conductores,Oficina Juan Pablo
+52942988,62040062,Viva,Anderson,Martinez,1989-3-24,-12.07/-77.63,Limpieza,Máncora
+68685020,41256582,Lizette,Jones,Jackson,1971-2-19,-12.15/-77.57,Limpieza,Lima
+93657350,65070340,Kelis,Lee,Brown,1999-1-28,-12.30/-77.41,Ventas,Talara
+95803512,62040062,Moesha,Thomas,Jackson,1981-12-27,-12.66/-77.19,Ventas,Plaza Norte
+13014067,41256582,Adolf,Anderson,Martin,1995-6-19,-12.45/-77.91,Ventas,Chimbote
+46531212,65070340,Tiesha,Lee,Brown,1976-5-14,-12.89/-77.58,Ventas,Oficina Juan Pablo
+92287040,65070340,Susie,Wilson,Martin,1975-1-0,-12.99/-77.02,Limpieza,Tumbes
+27645536,41256582,Cristy,Moore,Moore,1972-12-3,-12.22/-77.65,Conductores,Plaza Norte
+89269383,62040062,Odis,Williams,Anderson,1995-12-20,-12.92/-77.76,Ventas,Chiclayo
+88133561,41256582,Mandy,Moore,Thompson,1991-3-2,-12.20/-77.04,Asistentes,Chiclayo
+20551948,41256582,Brooklynn,Moore,Miller,1984-2-17,-12.50/-77.66,Asistentes,Plaza Norte
+97399533,65070340,Brandee,Moore,Thomas,1999-10-17,-12.35/-77.12,Limpieza,Oficina Bolivar
+50563532,10114080,Carley,Moore,Williams,1982-2-13,-12.04/-77.73,Ventas,Chiclayo
+01024776,10114080,Holli,Wilson,Miller,1985-11-16,-12.62/-77.50,Asistentes,Oficina Bolivar
+92081486,10114080,Flavia,Jones,Miller,1996-1-11,-12.08/-77.74,Asistentes,Máncora
+96041224,65070340,Tarah,Taylor,Wilson,1998-1-16,-12.78/-77.87,Conductores,Máncora
+41928032,10114080,Elinor,Garcia,Jackson,1999-5-5,-12.43/-77.52,Ventas,Plaza Norte
+78230109,65070340,Ragna,Rodriguez,Williams,1995-4-24,-12.78/-77.34,Conductores,Chimbote
+70498731,41256582,Anika,Anderson,Jones,1981-6-21,-12.46/-77.92,Ventas,Chiclayo
+58934928,41256582,Ned,Martin,Anderson,1981-9-0,-12.41/-77.67,Limpieza,Paita
+04554296,41256582,Tinie,Miller,Wilson,1986-6-13,-12.91/-77.61,Ventas,Tumbes
+04764002,41256582,Mandie,Jackson,White,1989-3-1,-12.84/-77.65,Asistentes,Chiclayo
+37509813,10114080,Prosper,Williams,Lee,1974-9-20,-12.30/-77.39,Ventas,Chiclayo
+13954540,41256582,Erna,Lee,Jackson,1978-3-4,-12.00/-77.14,Limpieza,Plaza Norte
+54742991,65070340,Gregory,Rodriguez,Moore,1993-2-17,-12.31/-77.58,Ventas,Chiclayo
+66041247,65070340,Richard,Martinez,Davis,1991-8-4,-12.67/-77.64,Asistentes,Máncora
+23213373,62040062,Hasel,Martin,Thomas,1976-5-20,-12.41/-77.79,Asistentes,Paita Terminal
+71928683,10114080,Gael,Wilson,Williams,1995-12-10,-12.87/-77.62,Conductores,Lima
+09118259,62040062,Luigi,Jackson,Miller,1988-7-12,-12.01/-77.12,Ventas,Chiclayo
+39386270,65070340,Meghan,Johnson,Garcia,1988-5-5,-12.01/-77.89,Ventas,Tumbes
+96114417,65070340,Lavona,Miller,Garcia,1991-5-3,-12.42/-77.91,Conductores,Paita Terminal
+21048368,65070340,Henery,Thompson,Moore,1981-7-8,-12.02/-77.39,Conductores,Paita
+24093257,41256582,Kobe,Taylor,Davis,1995-10-9,-12.31/-77.74,Conductores,Oficina Bolivar
+54711110,65070340,Guilford,Johnson,Martinez,1999-4-6,-12.20/-77.56,Asistentes,Tumbes
+78928062,65070340,Alisha,Lee,Wilson,1985-3-21,-12.78/-77.10,Ventas,Máncora
+20811849,41256582,Asberry,Anderson,Moore,1973-2-21,-12.45/-77.30,Limpieza,Piura Terminal
+59718501,65070340,Mamie,Lee,Smith,1981-12-5,-12.23/-77.98,Conductores,Lima
+43883625,41256582,Kate,Wilson,Davis,1974-10-5,-12.07/-77.93,Conductores,Oficina Bolivar
+83395843,10114080,Gwyn,Jackson,Jackson,1982-10-24,-12.62/-77.65,Conductores,Oficina Bolivar
+61107820,65070340,Delia,Jones,Taylor,1980-1-17,-12.50/-77.66,Limpieza,Chiclayo
+48977134,41256582,Alfredo,Rodriguez,Lee,1996-3-13,-12.96/-77.80,Ventas,Tumbes
+53350328,10114080,Lorelei,Williams,White,1995-1-21,-12.22/-77.77,Limpieza,Paita Terminal
+57257040,65070340,Thea,Jones,Williams,1975-3-9,-12.32/-77.40,Ventas,Piura Terminal
+69815234,10114080,Shayla,Johnson,Wilson,1997-4-21,-12.84/-77.95,Limpieza,Chiclayo
+63390623,62040062,Nico,Thomas,Rodriguez,1999-12-11,-12.22/-77.79,Asistentes,Oficina Juan Pablo
+86071467,62040062,Jeramiah,White,Thomas,1982-8-2,-12.43/-77.56,Asistentes,Terrapuerto Trujillo
+25892214,65070340,Nevaeh,Martinez,Jones,1977-5-14,-12.97/-77.31,Conductores,Piura Terminal
+13154490,41256582,Khari,White,Lee,1973-4-8,-12.63/-77.61,Conductores,Chiclayo
+67044735,10114080,Keven,Williams,Garcia,1995-8-23,-12.10/-77.99,Conductores,Lima
+71611172,10114080,Irva,Lee,Anderson,1995-7-24,-12.09/-77.52,Ventas,Lima
+72149261,10114080,Kathy,Wilson,Anderson,1991-2-15,-12.22/-77.10,Asistentes,Lima
+02787901,10114080,Hansford,Lee,Miller,1993-10-0,-12.37/-77.52,Ventas,Sullana
+77799131,10114080,Buford,Wilson,Brown,1974-7-3,-12.14/-77.40,Conductores,Lima
+31772604,10114080,Letty,Rodriguez,Wilson,1971-12-8,-12.42/-77.88,Asistentes,Plaza Norte
+01852484,10114080,Marcie,Brown,Smith,1994-11-26,-12.63/-77.58,Conductores,Chimbote
+11561031,62040062,Stacia,Moore,White,1980-3-4,-12.75/-77.61,Ventas,Piura Terminal
+94535023,65070340,Luigi,Anderson,Miller,1978-7-23,-12.97/-77.27,Asistentes,Paita Terminal
+39775566,65070340,Jeanna,Taylor,Davis,1970-5-17,-12.35/-77.76,Limpieza,Paita
+26491308,62040062,Kourtney,Moore,Thomas,1990-3-23,-12.69/-77.80,Asistentes,Sullana
+02380818,62040062,Ammie,Davis,Anderson,1970-8-9,-12.81/-77.20,Limpieza,Sullana
+54789761,10114080,Iva,Smith,Garcia,1997-8-22,-12.55/-77.68,Limpieza,Los Organos
+78846248,65070340,Samir,Brown,Jackson,1971-5-5,-12.91/-77.74,Ventas,Piura Terminal
+87855505,65070340,Zenas,Jones,Moore,1971-4-2,-12.35/-77.13,Conductores,Máncora
+52559664,62040062,Lawrence,Martinez,Thompson,1994-10-25,-12.49/-77.13,Limpieza,Sullana
+82833599,41256582,Jaydin,Anderson,Wilson,1992-10-3,-12.49/-77.54,Limpieza,Talara
+78668501,10114080,Enola,Johnson,Martinez,1998-10-9,-12.83/-77.25,Conductores,Paita
+50627573,10114080,Amit,Martinez,Anderson,1989-2-10,-12.75/-77.76,Asistentes,Paita Terminal
+80419004,41256582,Kaitlynn,Lee,Davis,1970-12-15,-12.92/-77.11,Ventas,Sullana
+38329128,65070340,Daniel,Anderson,Martin,1977-2-20,-12.40/-77.09,Limpieza,Chimbote
+09316827,41256582,Bella,Miller,Johnson,1974-2-17,-12.87/-77.98,Asistentes,Oficina Juan Pablo
+41592633,62040062,Woody,White,Rodriguez,1990-7-9,-12.44/-77.82,Conductores,Chimbote
+55842732,10114080,Koda,Johnson,Davis,1982-1-25,-12.41/-77.64,Conductores,Sullana
+36310772,10114080,Karley,Smith,Thomas,1983-2-3,-12.99/-77.42,Limpieza,Chimbote
+62608972,10114080,Mimi,Rodriguez,Garcia,1981-5-7,-12.44/-77.18,Ventas,Chimbote
+34999084,41256582,Geno,Wilson,Davis,1993-5-26,-12.23/-77.04,Conductores,Paita Terminal
+72332980,65070340,Cooper,Rodriguez,Rodriguez,1986-7-10,-12.25/-77.58,Conductores,Paita Terminal
+74611936,41256582,Mustafa,Lee,Davis,1981-1-8,-12.64/-77.23,Asistentes,Chimbote
+15212930,62040062,Lauryn,Moore,Jones,1972-1-9,-12.13/-77.93,Ventas,Terrapuerto Trujillo
+08842207,65070340,Ila,Martinez,Brown,1978-3-7,-12.61/-77.76,Asistentes,Máncora
+04788203,65070340,Coy,Martinez,Smith,1994-6-11,-12.38/-77.92,Asistentes,Paita Terminal
+86124302,41256582,Leonardo,Moore,Jones,1982-3-25,-12.63/-77.37,Conductores,Sullana
+49249371,65070340,Tyson,Smith,Thomas,1980-12-0,-12.34/-77.69,Asistentes,Talara
+03487744,41256582,Jep,Brown,Jones,1988-3-14,-12.54/-77.42,Conductores,Paita Terminal
+43630261,41256582,Nestor,Martin,Brown,1991-8-3,-12.69/-77.38,Asistentes,Piura Terminal
+80049594,10114080,Sheilah,Miller,Smith,1995-4-22,-12.19/-77.51,Limpieza,Lima
+17508676,62040062,Monty,Williams,Davis,1999-9-27,-12.35/-77.46,Ventas,Lima
+40279102,41256582,Stasia,Martin,Thompson,1970-1-12,-12.01/-77.01,Ventas,Máncora
+27468194,41256582,Buford,Martinez,Brown,1982-8-2,-12.09/-77.99,Asistentes,Paita
+51176409,65070340,Bernhard,Lee,Johnson,1978-7-23,-12.74/-77.59,Ventas,Piura Terminal
+47135256,41256582,Beulah,Davis,Miller,1998-10-28,-12.76/-77.84,Conductores,Paita Terminal
+90879460,62040062,Rich,Smith,Miller,1994-12-5,-12.69/-77.52,Limpieza,Terrapuerto Trujillo
+51461267,65070340,Rob,Taylor,Miller,1971-7-23,-12.60/-77.91,Conductores,Paita Terminal
+16706881,10114080,Cloe,Taylor,Davis,1990-9-8,-12.79/-77.56,Asistentes,Chiclayo
+94362625,62040062,Keri,Jackson,Jackson,1976-11-10,-12.38/-77.66,Asistentes,Chimbote
+84449345,10114080,Goebel,Lee,Davis,1999-12-4,-12.75/-77.77,Asistentes,Talara
+83043879,65070340,Toshio,Brown,Taylor,1985-7-19,-12.91/-77.53,Ventas,Chimbote
+64528017,65070340,Hildred,Davis,Taylor,1978-3-14,-12.54/-77.21,Limpieza,Paita Terminal
+70491884,62040062,Yancy,Thomas,Smith,1982-8-11,-12.76/-77.97,Ventas,Chiclayo
+89921494,41256582,Graham,Thomas,Williams,1977-2-10,-12.87/-77.56,Limpieza,Los Organos
+07624213,10114080,Chanda,Davis,Brown,1991-8-21,-12.93/-77.26,Asistentes,Piura Terminal
+97478154,10114080,Patric,Williams,Davis,1999-8-13,-12.31/-77.28,Ventas,Máncora
+12586995,65070340,Jenni,Jones,Moore,1983-9-27,-12.20/-77.78,Asistentes,Tumbes
+07414774,10114080,Gregg,White,Jackson,1992-11-6,-12.63/-77.45,Limpieza,Plaza Norte
+97142163,10114080,Theresia,Jones,Davis,1991-2-4,-12.14/-77.13,Asistentes,Chiclayo
+76972267,65070340,Francisco,Lee,Thomas,1978-3-5,-12.14/-77.20,Asistentes,Oficina Juan Pablo
+84450965,65070340,Tella,Anderson,Martinez,1970-2-28,-12.39/-77.52,Ventas,Los Organos
+78157587,65070340,Sybilla,Martin,Johnson,1987-3-24,-12.22/-77.08,Asistentes,Lima
+49157092,41256582,Goldia,Lee,Thomas,1975-12-23,-12.60/-77.13,Conductores,Máncora
+57066485,65070340,Dione,Jackson,Davis,1989-12-8,-12.44/-77.31,Ventas,Plaza Norte
+53649914,41256582,Carra,Thompson,Miller,1985-9-20,-12.23/-77.43,Conductores,Sullana
+27990652,65070340,Maud,White,Brown,1978-6-17,-12.13/-77.61,Limpieza,Los Organos
+52013657,10114080,Harlene,Thompson,Miller,1972-1-5,-12.73/-77.07,Asistentes,Tumbes
+64968491,62040062,Kacey,Garcia,Garcia,1975-10-21,-12.28/-77.33,Conductores,Oficina Juan Pablo
+01772241,41256582,Elliana,Thomas,Johnson,1981-2-9,-12.09/-77.86,Asistentes,Paita Terminal
+28337380,41256582,Kael,Martinez,Jones,1989-7-22,-12.68/-77.46,Ventas,Terrapuerto Trujillo
+19331258,10114080,Michele,Davis,Rodriguez,1985-9-26,-12.50/-77.87,Conductores,Paita
+02646614,62040062,Lakeisha,Davis,Thompson,1994-6-8,-12.19/-77.65,Limpieza,Sullana
+57251519,65070340,Natalee,Wilson,Jones,1975-6-9,-12.10/-77.10,Asistentes,Plaza Norte
+97999104,62040062,Nicole,Lee,Taylor,1974-7-19,-12.00/-77.31,Ventas,Máncora
+36280202,65070340,Dori,Smith,Miller,1975-6-13,-12.64/-77.49,Conductores,Oficina Bolivar
+57133357,41256582,Laisha,White,Garcia,1990-10-23,-12.58/-77.03,Ventas,Terrapuerto Trujillo
+06374766,41256582,Delfina,Martinez,Brown,1998-1-21,-12.14/-77.90,Asistentes,Oficina Bolivar
+64015168,65070340,Misael,Thomas,Rodriguez,1974-6-7,-12.73/-77.91,Conductores,Oficina Bolivar
+08565905,10114080,Atlas,Smith,Jones,1997-12-21,-12.28/-77.67,Conductores,Lima
+18242614,62040062,Tina,Jones,Martinez,1978-4-4,-12.06/-77.86,Ventas,Lima
+93469486,41256582,Kaylin,Wilson,White,1983-5-7,-12.37/-77.87,Ventas,Terrapuerto Trujillo
+58612538,65070340,Hjalmer,Johnson,Thompson,1982-1-23,-12.58/-77.87,Asistentes,Paita Terminal
+89290949,62040062,Ethyle,Johnson,White,1977-10-5,-12.38/-77.49,Asistentes,Sullana
+51715684,10114080,Jordi,Johnson,Garcia,1975-1-22,-12.16/-77.08,Conductores,Talara
+38743892,62040062,Jeffry,Jones,Miller,1999-6-2,-12.42/-77.03,Ventas,Oficina Bolivar
+14413243,10114080,Eleanor,Thomas,Anderson,1987-4-2,-12.63/-77.52,Limpieza,Oficina Juan Pablo
+08713958,65070340,Rayburn,Rodriguez,Jackson,1992-7-8,-12.36/-77.07,Conductores,Paita Terminal
+71114698,65070340,Brice,Smith,Miller,1974-8-24,-12.65/-77.36,Conductores,Los Organos
+93217054,65070340,Francisco,Johnson,Davis,1990-4-19,-12.13/-77.25,Asistentes,Máncora
+56363049,65070340,Uriah,Martinez,Davis,1994-7-0,-12.46/-77.32,Limpieza,Chiclayo
+68517825,62040062,Almedia,Taylor,Garcia,1977-1-21,-12.35/-77.09,Limpieza,Máncora
+13985720,41256582,Adolphus,Taylor,Jones,1997-6-0,-12.08/-77.30,Asistentes,Talara
+79278930,41256582,Georgia,Martinez,Jones,1993-3-18,-12.03/-77.74,Conductores,Talara
+97529459,10114080,Cindy,Smith,Brown,1986-9-28,-12.05/-77.87,Conductores,Chiclayo
+87324640,62040062,Marshall,Rodriguez,Davis,1985-12-25,-12.47/-77.20,Conductores,Plaza Norte
+59576073,65070340,Kathyrn,Smith,Taylor,1981-8-25,-12.33/-77.04,Ventas,Talara
+84448488,65070340,Annabelle,Martin,Thompson,1983-4-5,-12.10/-77.04,Limpieza,Paita
+29816252,65070340,Washington,Taylor,Taylor,1994-3-28,-12.48/-77.90,Ventas,Paita
+31285510,10114080,Harper,Davis,Miller,1999-4-12,-12.62/-77.90,Asistentes,Oficina Bolivar
+20089939,65070340,Bethel,Thompson,Davis,1993-6-14,-12.43/-77.40,Conductores,Paita Terminal
+36824086,65070340,Jakob,Lee,Williams,1974-6-4,-12.04/-77.95,Asistentes,Paita
+70885125,62040062,Mena,Johnson,Taylor,1991-6-10,-12.33/-77.45,Ventas,Paita Terminal
+53389795,10114080,Kristi,Anderson,Wilson,1976-2-23,-12.14/-77.82,Conductores,Paita Terminal
+91103758,62040062,Lenora,Rodriguez,Miller,1976-2-8,-12.14/-77.58,Asistentes,Oficina Juan Pablo
+88349774,10114080,Hoy,Brown,Rodriguez,1997-9-26,-12.07/-77.35,Ventas,Los Organos
+18430040,65070340,Orlena,Williams,Thompson,1986-9-7,-12.22/-77.99,Limpieza,Paita Terminal
+52612339,41256582,Jamir,Martin,Miller,1980-11-1,-12.63/-77.96,Ventas,Lima
+16039558,62040062,Brenda,Moore,Thompson,1991-9-19,-12.85/-77.89,Limpieza,Talara
+49903471,65070340,Dillie,Rodriguez,Thomas,1996-5-14,-12.10/-77.52,Ventas,Paita
+99255754,65070340,Jahiem,Thompson,Brown,1982-8-25,-12.23/-77.29,Limpieza,Plaza Norte
+88125348,65070340,Allyson,Jackson,Miller,1970-2-19,-12.47/-77.49,Conductores,Chiclayo
+24999210,62040062,Lazaro,White,Thomas,1984-11-24,-12.17/-77.32,Conductores,Sullana
+38520299,41256582,Raina,Martinez,White,1981-4-18,-12.60/-77.30,Asistentes,Terrapuerto Trujillo
+14353268,41256582,Keri,Jackson,Anderson,1998-9-8,-12.82/-77.35,Asistentes,Terrapuerto Trujillo
+55503793,65070340,Baylee,Rodriguez,Moore,1991-11-23,-12.68/-77.78,Conductores,Paita Terminal
+79352848,41256582,Mabell,Brown,Martin,1976-6-14,-12.29/-77.87,Conductores,Paita
+68365445,41256582,Kaye,Smith,Martinez,1970-3-27,-12.45/-77.12,Limpieza,Tumbes
+59261380,62040062,Haden,Thompson,Williams,1989-2-8,-12.26/-77.22,Conductores,Piura Terminal
+39753418,65070340,Orlando,Rodriguez,Garcia,1973-12-19,-12.89/-77.94,Limpieza,Piura Terminal
+61739583,65070340,Erich,White,Davis,1990-4-10,-12.27/-77.11,Conductores,Lima
+78467543,41256582,Beckett,Martin,Smith,1982-10-3,-12.68/-77.64,Conductores,Chimbote
+49438452,10114080,Jazlyn,Jackson,Anderson,1984-7-12,-12.50/-77.65,Asistentes,Oficina Bolivar
+01600665,41256582,Tiana,Jackson,Lee,1978-10-11,-12.01/-77.99,Ventas,Paita
+77257233,41256582,Jerilynn,Moore,Miller,1971-11-23,-12.51/-77.92,Conductores,Lima
+91516618,10114080,Elick,Jones,White,1994-9-12,-12.02/-77.53,Limpieza,Plaza Norte
+82537801,65070340,Phyllis,Williams,Davis,1979-6-16,-12.10/-77.11,Limpieza,Oficina Juan Pablo
+88509702,62040062,Journey,Thomas,Martin,1973-2-5,-12.98/-77.89,Conductores,Chiclayo
+08853867,62040062,Docia,Jackson,Davis,1979-7-7,-12.71/-77.43,Ventas,Máncora
+96417209,62040062,Casimir,Wilson,Jackson,1972-2-17,-12.67/-77.66,Ventas,Talara
+63849934,62040062,Omari,Williams,Brown,1975-9-19,-12.06/-77.82,Ventas,Máncora
+89915901,62040062,Christoper,Thomas,Wilson,1973-10-15,-12.87/-77.09,Ventas,Paita
+45255878,41256582,Laurette,Rodriguez,Anderson,1996-12-22,-12.20/-77.03,Conductores,Los Organos
+57147048,65070340,Slade,Davis,Anderson,1979-7-16,-12.16/-77.35,Limpieza,Chimbote
+16261204,65070340,Rodger,Thomas,Thomas,1989-1-14,-12.96/-77.21,Asistentes,Máncora
+13470008,62040062,Beverly,Taylor,Brown,1984-11-3,-12.92/-77.29,Conductores,Tumbes
+91539340,41256582,Ozella,Martin,White,1976-2-16,-12.95/-77.63,Asistentes,Tumbes
+03580902,62040062,Mila,White,Miller,1993-12-12,-12.87/-77.37,Conductores,Oficina Juan Pablo
+77169784,65070340,Emogene,Thompson,Brown,1987-5-11,-12.57/-77.77,Ventas,Terrapuerto Trujillo
+36721638,65070340,Yasmine,Martin,Johnson,1997-12-8,-12.43/-77.32,Ventas,Máncora
+12652309,65070340,Juston,Martinez,Brown,1988-5-24,-12.93/-77.68,Ventas,Lima
+21456090,62040062,Lamonte,Davis,Martinez,1976-3-0,-12.44/-77.62,Ventas,Oficina Juan Pablo
+81661951,41256582,Renata,Taylor,Davis,1999-8-23,-12.16/-77.57,Limpieza,Oficina Juan Pablo
+62109574,62040062,Elayne,Brown,Johnson,1989-5-8,-12.75/-77.20,Limpieza,Piura Terminal
+78823440,10114080,Esteban,Thomas,Anderson,1970-1-5,-12.90/-77.91,Asistentes,Talara
+29488179,65070340,Kenyon,Thompson,Jackson,1983-7-27,-12.15/-77.93,Limpieza,Lima
+77753064,10114080,Sonja,Martin,Wilson,1972-4-18,-12.12/-77.08,Ventas,Paita
+91750295,10114080,Magnolia,Moore,Anderson,1991-3-1,-12.58/-77.40,Asistentes,Paita Terminal
+81438858,65070340,Tarsha,Lee,Williams,1970-5-0,-12.47/-77.65,Conductores,Talara
+93013866,62040062,Alline,Thompson,Davis,1975-12-22,-12.99/-77.62,Asistentes,Lima
+51584229,62040062,Valorie,Martin,Lee,1980-4-21,-12.32/-77.02,Asistentes,Tumbes
+09413325,65070340,Domenick,Johnson,Wilson,1977-11-20,-12.87/-77.10,Ventas,Terrapuerto Trujillo
+68330784,10114080,Robb,Lee,Johnson,1990-3-1,-12.13/-77.53,Asistentes,Máncora
+61109081,65070340,Mackenzie,Thompson,Garcia,1998-9-22,-12.83/-77.29,Limpieza,Lima
+15902235,41256582,Yair,Garcia,Wilson,1997-9-13,-12.79/-77.76,Limpieza,Talara
+64625904,65070340,Kamila,Martin,Jones,1995-10-9,-12.45/-77.08,Limpieza,Sullana
+51637703,10114080,Floretta,Wilson,Anderson,1993-1-6,-12.15/-77.82,Ventas,Oficina Bolivar
+45142882,41256582,Roe,Martinez,Williams,1993-10-6,-12.26/-77.88,Conductores,Paita
+80761503,62040062,Braxton,Smith,Moore,1989-2-20,-12.75/-77.50,Ventas,Los Organos
+74624344,10114080,Sonji,Anderson,Martinez,1994-12-25,-12.60/-77.05,Conductores,Oficina Juan Pablo
+03485958,41256582,Annmarie,Miller,Martinez,1986-2-20,-12.68/-77.40,Conductores,Terrapuerto Trujillo
+73802069,10114080,Louise,Martinez,Martin,1973-3-22,-12.83/-77.99,Limpieza,Piura Terminal
+67204265,10114080,Elam,Wilson,Johnson,1983-7-23,-12.85/-77.31,Conductores,Paita
+31051331,62040062,Ron,Moore,Miller,1973-9-22,-12.53/-77.14,Ventas,Paita
+15656239,41256582,Natalie,Brown,Garcia,1988-7-11,-12.84/-77.91,Asistentes,Tumbes
+38932407,10114080,Deborrah,Martin,Smith,1976-6-20,-12.74/-77.90,Ventas,Lima
+23611292,41256582,Elenore,Smith,Jackson,1977-3-24,-12.32/-77.53,Limpieza,Lima
+92912303,41256582,Lissette,Martinez,Brown,1987-11-18,-12.58/-77.74,Ventas,Oficina Bolivar
+98598723,10114080,Kayla,Martin,Garcia,1974-5-25,-12.17/-77.98,Conductores,Paita Terminal
+99730594,62040062,Shannon,Martinez,Martin,1995-4-27,-12.75/-77.79,Ventas,Paita Terminal
+27922830,10114080,Yael,Johnson,Smith,1997-5-6,-12.32/-77.37,Conductores,Sullana
+24905676,41256582,Semaj,Wilson,Williams,1988-4-14,-12.12/-77.60,Conductores,Chimbote
+94726953,62040062,Troy,Rodriguez,Lee,1997-5-27,-12.89/-77.77,Asistentes,Chimbote
+98390602,65070340,Malissa,Martin,Taylor,1993-3-27,-12.65/-77.22,Ventas,Paita Terminal
+91534411,41256582,Jame,Jackson,Jones,1975-3-11,-12.84/-77.46,Asistentes,Paita
+06487142,41256582,Huldah,White,Martinez,1977-2-10,-12.30/-77.23,Asistentes,Oficina Juan Pablo
+21302710,10114080,Nannette,Brown,Johnson,1994-1-14,-12.95/-77.10,Ventas,Paita Terminal
+93389432,41256582,Tricia,Wilson,Anderson,1970-4-10,-12.72/-77.34,Asistentes,Plaza Norte
+91498108,41256582,Natalie,Williams,Jones,1982-10-4,-12.63/-77.64,Limpieza,Oficina Juan Pablo
+64620996,62040062,Gina,Thompson,Jackson,1981-3-16,-12.82/-77.56,Asistentes,Máncora
+96466723,62040062,Hailie,Thomas,Miller,1992-4-0,-12.26/-77.53,Limpieza,Talara
+59154540,10114080,Misti,Anderson,Williams,1979-12-27,-12.75/-77.05,Conductores,Talara
+50474099,62040062,Bowman,Martinez,Jackson,1983-7-5,-12.48/-77.45,Ventas,Lima
+91501206,65070340,Kristine,Smith,Jackson,1978-1-14,-12.85/-77.67,Ventas,Lima
+78087144,10114080,Vashti,Anderson,Taylor,1977-1-25,-12.79/-77.91,Limpieza,Los Organos
+26443130,65070340,Cressie,Williams,Davis,1984-3-0,-12.04/-77.11,Limpieza,Paita Terminal
+68837909,65070340,Rusty,Davis,Thomas,1981-5-0,-12.77/-77.20,Asistentes,Tumbes
+77590011,62040062,Dustin,Davis,Taylor,1989-7-10,-12.64/-77.72,Limpieza,Los Organos
+52691383,10114080,Elenora,Thompson,Taylor,1975-2-20,-12.76/-77.89,Limpieza,Talara
+65449801,41256582,Rogers,Thompson,Martin,1982-6-11,-12.03/-77.16,Limpieza,Los Organos
+17387978,62040062,Joy,Lee,Anderson,1975-3-21,-12.40/-77.09,Limpieza,Paita
+04996324,10114080,Blas,Thompson,Smith,1977-8-5,-12.47/-77.45,Limpieza,Terrapuerto Trujillo
+47006046,41256582,Ebert,Martin,Anderson,1972-9-4,-12.62/-77.49,Ventas,Paita Terminal
+31507342,62040062,Kamila,Lee,White,1993-9-3,-12.34/-77.88,Limpieza,Chimbote
+46520992,10114080,Buster,Williams,Wilson,1989-8-12,-12.29/-77.68,Ventas,Oficina Juan Pablo
+55133582,65070340,Doctor,Lee,Jones,1980-6-10,-12.03/-77.44,Asistentes,Paita
+62017268,62040062,Cleva,Williams,White,1985-10-9,-12.38/-77.93,Ventas,Chiclayo
+02986480,10114080,Ali,Taylor,Taylor,1976-11-18,-12.30/-77.66,Limpieza,Oficina Bolivar
+09107232,65070340,Nevaeh,Wilson,Anderson,1991-3-16,-12.21/-77.99,Asistentes,Chiclayo
+37891058,65070340,Capitola,Davis,Garcia,1978-3-15,-12.70/-77.58,Ventas,Paita Terminal
+74218469,62040062,Rayfield,Moore,Moore,1979-9-15,-12.10/-77.59,Ventas,Paita Terminal
+66764832,65070340,Tobie,Rodriguez,Anderson,1991-1-8,-12.04/-77.01,Ventas,Los Organos
+11012051,65070340,Gaylen,Rodriguez,Smith,1994-1-19,-12.60/-77.57,Limpieza,Chiclayo
+15433036,41256582,Shawnte,Thomas,Jones,1974-3-5,-12.88/-77.38,Asistentes,Paita Terminal
+93043220,62040062,Edd,Brown,Anderson,1980-1-28,-12.15/-77.88,Conductores,Talara
+65723531,10114080,Erie,White,Miller,1992-9-0,-12.56/-77.81,Asistentes,Chiclayo
+11028558,62040062,Hollie,Thomas,Lee,1991-10-23,-12.46/-77.14,Ventas,Lima
+74913564,10114080,Fernand,Garcia,Martin,1987-12-3,-12.51/-77.69,Ventas,Sullana
+25854699,65070340,Brynn,Jackson,White,1996-7-9,-12.70/-77.62,Limpieza,Chimbote
+05671732,62040062,Doris,Lee,Davis,1996-7-15,-12.93/-77.46,Ventas,Los Organos
+28445417,41256582,Guilford,Martin,White,1993-6-12,-12.22/-77.50,Limpieza,Paita Terminal
+46497703,65070340,Concetta,Wilson,Martinez,1993-11-17,-12.59/-77.09,Conductores,Tumbes
+60473716,10114080,Leonore,Lee,Taylor,1971-11-24,-12.32/-77.26,Ventas,Chimbote
+47342311,62040062,Daunte,Thomas,Brown,1972-8-18,-12.11/-77.58,Conductores,Paita
+41400657,62040062,Orlando,Martin,Miller,1984-8-18,-12.60/-77.15,Ventas,Máncora
+84534842,65070340,Yandel,Anderson,Miller,1980-4-14,-12.50/-77.69,Conductores,Máncora
+01534719,62040062,Brogan,Moore,Williams,1978-2-15,-12.12/-77.88,Ventas,Chimbote
+23397648,65070340,Kayli,Martinez,Smith,1984-3-23,-12.69/-77.15,Ventas,Oficina Bolivar
+42612052,62040062,Hakeem,Johnson,Thomas,1984-9-21,-12.33/-77.05,Conductores,Terrapuerto Trujillo
+14531628,41256582,Mohammad,Taylor,Rodriguez,1983-11-6,-12.85/-77.04,Conductores,Chiclayo
+36977434,41256582,Jarrett,Thomas,Jones,1995-10-13,-12.21/-77.36,Conductores,Chimbote
+79913609,65070340,Shelton,Williams,Thomas,1991-1-27,-12.71/-77.61,Ventas,Piura Terminal
+38348467,62040062,Sandra,Lee,Brown,1976-1-13,-12.39/-77.13,Limpieza,Tumbes
+40546847,62040062,Jocelyne,Miller,Thomas,1989-5-15,-12.43/-77.14,Asistentes,Piura Terminal
+16913876,10114080,Irene,Johnson,Lee,1986-4-20,-12.00/-77.46,Conductores,Sullana
+24304648,62040062,Merl,Wilson,Anderson,1981-7-10,-12.14/-77.13,Conductores,Paita
+59387504,10114080,Jared,Wilson,Jackson,1996-5-27,-12.36/-77.28,Conductores,Oficina Juan Pablo
+25919624,10114080,Macy,Wilson,Moore,1974-8-23,-12.85/-77.52,Ventas,Sullana
+53247875,62040062,Westley,Wilson,White,1973-2-13,-12.94/-77.83,Conductores,Los Organos
+09715229,41256582,Lavona,Rodriguez,Jones,1987-10-3,-12.61/-77.05,Conductores,Máncora
+12309995,10114080,Hernan,Miller,Smith,1988-3-14,-12.11/-77.32,Asistentes,Paita Terminal
+06114301,62040062,Bradyn,White,Martinez,1976-3-19,-12.99/-77.03,Ventas,Chimbote
+76136270,10114080,Maceo,Jackson,Garcia,1988-7-9,-12.21/-77.10,Limpieza,Tumbes
+75270395,10114080,Gregory,Thomas,Jackson,1981-9-9,-12.07/-77.44,Conductores,Lima
+46201332,10114080,Nila,Lee,Davis,1984-7-21,-12.64/-77.36,Asistentes,Paita
+00542266,10114080,Kyson,Davis,Smith,1970-9-22,-12.03/-77.65,Limpieza,Tumbes
+52716384,65070340,Jeptha,Smith,White,1998-11-2,-12.45/-77.16,Conductores,Lima
+22786002,41256582,Demetra,Garcia,Garcia,1985-7-14,-12.57/-77.56,Ventas,Paita Terminal
+70392860,41256582,Coolidge,Jackson,Thomas,1985-8-21,-12.76/-77.63,Asistentes,Paita Terminal
+18793662,62040062,Jazmyne,Davis,Rodriguez,1970-3-16,-12.22/-77.81,Conductores,Lima
+68891496,41256582,Gerald,Williams,Smith,1984-3-10,-12.63/-77.26,Asistentes,Oficina Bolivar
+06208429,10114080,Floretta,White,Martin,1971-5-21,-12.72/-77.19,Limpieza,Paita Terminal
+46668225,10114080,Deloris,Williams,Thompson,1976-4-19,-12.76/-77.86,Conductores,Piura Terminal
+43118407,41256582,Corrie,Rodriguez,Williams,1993-2-14,-12.32/-77.62,Conductores,Talara
+99481077,41256582,Tim,Jones,Thompson,1987-3-8,-12.88/-77.07,Conductores,Piura Terminal
+72842075,62040062,Janelle,Smith,Anderson,1987-10-8,-12.25/-77.40,Ventas,Paita Terminal
+01822831,41256582,Zigmund,Johnson,Jones,1985-6-18,-12.51/-77.97,Conductores,Terrapuerto Trujillo
+18328978,41256582,Helen,Jackson,Lee,1977-2-9,-12.30/-77.37,Limpieza,Máncora
+62517765,65070340,Ken,Johnson,Moore,1999-2-4,-12.73/-77.05,Ventas,Chiclayo
+97008046,41256582,Jalyn,Smith,Rodriguez,1991-3-22,-12.02/-77.18,Asistentes,Terrapuerto Trujillo
+28534102,65070340,Lizzie,Miller,Thomas,1980-7-10,-12.53/-77.76,Conductores,Plaza Norte
+99520749,62040062,Zackary,Moore,Thomas,1982-12-9,-12.55/-77.74,Ventas,Tumbes
+54010388,10114080,Ema,Moore,Moore,1971-3-14,-12.13/-77.76,Asistentes,Paita
+09112898,62040062,Fiona,Davis,Rodriguez,1975-6-5,-12.56/-77.51,Ventas,Chiclayo
+88497023,62040062,Hayes,Martin,Moore,1970-2-28,-12.81/-77.05,Ventas,Plaza Norte
+16864615,10114080,Geri,Jackson,Jackson,1992-1-28,-12.33/-77.55,Limpieza,Piura Terminal
+12466843,10114080,Ethyl,Brown,Rodriguez,1971-12-15,-12.67/-77.05,Limpieza,Chimbote
+82479704,65070340,Hilah,Lee,Wilson,1975-12-7,-12.94/-77.87,Conductores,Plaza Norte
+31150835,10114080,Anais,Rodriguez,Thomas,1981-11-1,-12.78/-77.99,Conductores,Oficina Bolivar

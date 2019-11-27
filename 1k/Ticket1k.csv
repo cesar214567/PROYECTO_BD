@@ -1,0 +1,301 @@
+Num_Ticket,ClienteDNI,id_ruta,AgenciaNombre,BusPlaca,Fecha_viaje
+0,70000060,Cal-Moq,Lima,4fc3h2652s,2018-12-3
+1,70000056,Caj-Piu,Plaza Norte,m3d8pe876m,2018-3-2
+2,70000020,Mad-Aya,Sullana,4fc3h2652s,2018-5-5
+3,70000006,Pas-Aya,Paita,433939bvap,2018-2-18
+4,70000075,Hua-Jun,Oficina Juan Pablo,be4066fg87,2018-8-17
+5,70000088,Tum-Tac,Tumbes,6js970390d,2018-3-25
+6,70000044,Pas-Aya,Lima,qwx5fm9g14,2018-3-5
+7,70000009,Hua-Tac,Chimbote,43g29m751q,2018-3-25
+8,70000088,Cus-Cal,Paita,82143v2172,2018-3-21
+9,70000015,Tum-Tac,Oficina Bolivar,73m027s63t,2018-4-28
+10,70000031,Cal-Moq,Tumbes,80qrpkh8o6,2018-1-14
+11,70000040,Moq-Lor,Oficina Bolivar,u8mo4io663,2018-10-15
+12,70000055,Hua-Jun,Chimbote,d57o4t8x02,2018-7-15
+13,70000044,Cus-Cal,Talara,qwx5fm9g14,2018-9-2
+14,70000088,Pun-Mad,Terrapuerto Trujillo,jqxgc781dn,2018-4-15
+15,70000072,Pun-Mad,Lima,73m027s63t,2018-7-15
+16,70000048,Hua-Ama,Los Organos,7ov3ae77nd,2018-2-28
+17,70000097,Tum-Are,Los Organos,ff846e161i,2018-10-9
+18,70000080,Lim-Are,Oficina Bolivar,k0je235j2q,2018-6-8
+19,70000045,Tum-Are,Máncora,d57o4t8x02,2018-12-11
+20,70000087,Anc-Cal,Oficina Bolivar,dd0n15wq86,2018-7-3
+21,70000058,Cal-Lam,Lima,jqxgc781dn,2018-7-15
+22,70000004,Hua-Ama,Piura Terminal,ff846e161i,2018-10-13
+23,70000059,Cal-Lam,Talara,hc3gi58653,2018-6-8
+24,70000073,Ama-Lor,Sullana,j1gt0974q6,2018-12-9
+25,70000071,Aya-La ,Máncora,ja2saq9872,2018-11-3
+26,70000002,Caj-Piu,Piura Terminal,5hjad9h85f,2018-7-4
+27,70000078,Cal-Lam,Paita Terminal,j1gt0974q6,2018-6-25
+28,70000038,La -Tac,Terrapuerto Trujillo,gcp6d6cfi6,2018-11-16
+29,70000007,Tum-Tac,Paita,u592u4uu43,2018-9-22
+30,70000089,Pas-Are,Oficina Bolivar,j1gt0974q6,2018-5-18
+31,70000008,Aya-Moq,Chiclayo,vp47k39f27,2018-3-17
+32,70000060,Ama-Lor,Plaza Norte,ff846e161i,2018-2-1
+33,70000002,Tac-Cus,Chimbote,qwx5fm9g14,2018-4-7
+34,70000024,Moq-Lor,Oficina Juan Pablo,62e66o88ei,2018-5-27
+35,70000047,Tum-Hua,Chiclayo,82143v2172,2018-8-19
+36,70000079,Anc-Cal,Sullana,gl27642271,2018-9-7
+37,70000054,San-Pas,Terrapuerto Trujillo,be4066fg87,2018-11-9
+38,70000089,Cus-Pas,Plaza Norte,6js970390d,2018-2-4
+39,70000043,Ama-Lim,Oficina Bolivar,u592u4uu43,2018-8-23
+40,70000047,Pas-Aya,Sullana,u592u4uu43,2018-5-3
+41,70000059,Lam-Lor,Oficina Bolivar,68v3k2rbsi,2018-3-10
+42,70000082,Pas-Pun,Chiclayo,m68o1h64fk,2018-11-21
+43,70000004,Tum-Hua,Lima,ja2saq9872,2018-2-11
+44,70000007,Tum-Are,Los Organos,be4066fg87,2018-2-12
+45,70000007,Caj-Piu,Oficina Bolivar,7noi2j3lst,2018-2-19
+46,70000081,Pas-Aya,Plaza Norte,ff846e161i,2018-5-9
+47,70000008,Anc-San,Talara,6js970390d,2018-7-16
+48,70000065,Anc-Cal,Chimbote,hc3gi58653,2018-8-28
+49,70000077,Pun-Mad,Chimbote,be4066fg87,2018-8-22
+50,70000092,Moq-Lor,Paita,3lqj1q114p,2018-5-28
+51,70000089,Aya-Moq,Lima,73m027s63t,2018-1-5
+52,70000044,Lam-Lor,Chiclayo,7h13999vl0,2018-2-21
+53,70000008,Anc-San,Máncora,hc3gi58653,2018-2-11
+54,70000038,Lam-Jun,Talara,dap7pgbswa,2018-8-20
+55,70000011,Pun-Mad,Lima,j1gt0974q6,2018-3-23
+56,70000021,Cal-Lam,Paita Terminal,6js970390d,2018-12-28
+57,70000025,Hua-Jun,Paita Terminal,k0je235j2q,2018-5-26
+58,70000063,Cus-Cal,Oficina Bolivar,tk99w07x9j,2018-3-22
+59,70000025,Pun-San,Talara,62e66o88ei,2018-7-16
+60,70000077,Cus-Pas,Tumbes,u8mo4io663,2018-4-23
+61,70000029,Cus-Cal,Terrapuerto Trujillo,637vpnq8d8,2018-6-5
+62,70000000,Pun-Mad,Chimbote,4fc3h2652s,2018-2-16
+63,70000064,Cal-Lam,Oficina Juan Pablo,qwx5fm9g14,2018-9-19
+64,70000046,Tac-Cus,Sullana,62e66o88ei,2018-8-26
+65,70000065,Pun-San,Sullana,hoc13tqn10,2018-5-19
+66,70000039,Anc-San,Paita,m3d8pe876m,2018-2-25
+67,70000021,Ama-Lor,Piura Terminal,d57o4t8x02,2018-6-25
+68,70000016,Cal-Moq,Talara,5hjad9h85f,2018-11-22
+69,70000009,Anc-Cal,Paita,qwx5fm9g14,2018-3-15
+70,70000049,Tum-Hua,Máncora,gcp6d6cfi6,2018-1-28
+71,70000086,Cal-Moq,Talara,j1gt0974q6,2018-5-27
+72,70000038,Ama-Lim,Terrapuerto Trujillo,7h13999vl0,2018-6-25
+73,70000085,Hua-Ama,Sullana,4fc3h2652s,2018-2-25
+74,70000076,Tum-Tac,Tumbes,tk99w07x9j,2018-11-27
+75,70000054,Tac-Cus,Oficina Juan Pablo,vp47k39f27,2018-4-7
+76,70000049,Pun-Mad,Chiclayo,7h13999vl0,2018-12-26
+77,70000031,Lam-Jun,Talara,5hjad9h85f,2018-11-5
+78,70000019,Aya-Moq,Piura Terminal,hoc13tqn10,2018-4-23
+79,70000073,Anc-Cal,Oficina Bolivar,u592u4uu43,2018-4-8
+80,70000027,Tac-Jun,Paita Terminal,1e5g1s82w2,2018-7-7
+81,70000019,Tac-Hua,Oficina Bolivar,dd0n15wq86,2018-2-5
+82,70000010,Ama-Lor,Tumbes,637vpnq8d8,2018-4-13
+83,70000004,Lam-Jun,Chiclayo,433939bvap,2018-9-4
+84,70000012,Cus-Pas,Oficina Bolivar,hoc13tqn10,2018-8-18
+85,70000013,Moq-Lor,Oficina Bolivar,dd0n15wq86,2018-5-26
+86,70000042,Lim-Are,Máncora,4fc3h2652s,2018-12-2
+87,70000047,Pun-San,Oficina Juan Pablo,dd0n15wq86,2018-7-26
+88,70000052,Hua-Cus,Máncora,m68o1h64fk,2018-9-22
+89,70000019,Anc-Cal,Paita,gl27642271,2018-3-11
+90,70000007,Moq-Lor,Tumbes,7noi2j3lst,2018-12-10
+91,70000075,Cus-Pas,Chimbote,uor703l050,2018-10-9
+92,70000065,Cus-Pas,Máncora,68v3k2rbsi,2018-5-8
+93,70000024,Tum-Are,Terrapuerto Trujillo,jqxgc781dn,2018-6-27
+94,70000054,San-Pas,Chimbote,1e5g1s82w2,2018-8-7
+95,70000031,Cus-Cal,Chimbote,vp47k39f27,2018-1-2
+96,70000046,Tum-Tac,Los Organos,u8mo4io663,2018-8-9
+97,70000075,Ama-Lor,Tumbes,qwx5fm9g14,2018-12-9
+98,70000040,Caj-Piu,Paita Terminal,82143v2172,2018-1-20
+99,70000012,Moq-Lor,Paita,qwx5fm9g14,2018-12-4
+100,70000094,Cal-Lam,Talara,73m027s63t,2018-5-15
+101,70000000,Hua-Tac,Tumbes,37405c0xw3,2018-6-9
+102,70000007,Lam-Lor,Oficina Bolivar,4fc3h2652s,2018-6-16
+103,70000028,La -Tac,Sullana,1e5g1s82w2,2018-8-4
+104,70000072,Tac-Hua,Los Organos,dd0n15wq86,2018-12-6
+105,70000003,Cus-Pas,Máncora,7h13999vl0,2018-10-5
+106,70000067,Aya-Moq,Los Organos,m3d8pe876m,2018-2-5
+107,70000085,Hua-Tac,Oficina Juan Pablo,hoc13tqn10,2018-9-15
+108,70000041,Tac-Jun,Chiclayo,ja2saq9872,2018-6-15
+109,70000043,Hua-Tac,Tumbes,vp47k39f27,2018-11-26
+110,70000047,Hua-Jun,Lima,7ov3ae77nd,2018-4-20
+111,70000032,Lam-Lor,Sullana,5hjad9h85f,2018-11-11
+112,70000075,Hua-Jun,Oficina Juan Pablo,43g29m751q,2018-6-27
+113,70000030,Cal-Lam,Plaza Norte,u592u4uu43,2018-11-17
+114,70000099,Cal-Lam,Los Organos,qrrir0371h,2018-4-17
+115,70000054,San-Pas,Paita Terminal,43g29m751q,2018-2-22
+116,70000008,Moq-Lor,Máncora,u592u4uu43,2018-5-15
+117,70000003,Cal-Mad,Talara,jqxgc781dn,2018-9-15
+118,70000084,Cus-Pas,Chiclayo,82143v2172,2018-5-7
+119,70000050,Moq-Lor,Tumbes,d57o4t8x02,2018-6-16
+120,70000033,Lam-Lor,Paita Terminal,5hjad9h85f,2018-8-23
+121,70000065,Pun-Mad,Máncora,qwx5fm9g14,2018-5-17
+122,70000090,Cus-Pas,Sullana,dd0n15wq86,2018-2-2
+123,70000078,Tum-Tac,Oficina Juan Pablo,5hjad9h85f,2018-12-13
+124,70000029,Anc-San,Piura Terminal,6js970390d,2018-7-26
+125,70000000,Cal-Moq,Tumbes,1e5g1s82w2,2018-4-21
+126,70000044,Hua-Tac,Máncora,m3d8pe876m,2018-5-25
+127,70000004,Aya-La ,Plaza Norte,jqxgc781dn,2018-8-25
+128,70000078,Cal-Moq,Terrapuerto Trujillo,62e66o88ei,2018-1-2
+129,70000050,Tac-Jun,Los Organos,5hjad9h85f,2018-4-26
+130,70000044,Pun-San,Chiclayo,1e5g1s82w2,2018-6-9
+131,70000085,San-Pas,Oficina Juan Pablo,43g29m751q,2018-6-9
+132,70000032,Lam-Lor,Chiclayo,gcp6d6cfi6,2018-12-27
+133,70000080,Lam-Jun,Piura Terminal,433939bvap,2018-8-9
+134,70000075,Anc-Cal,Terrapuerto Trujillo,gl27642271,2018-9-19
+135,70000019,Aya-Moq,Terrapuerto Trujillo,qwx5fm9g14,2018-3-12
+136,70000028,Cus-Cal,Paita Terminal,dd0n15wq86,2018-8-11
+137,70000033,Cal-Lam,Plaza Norte,ja2saq9872,2018-5-8
+138,70000095,Tac-Cus,Paita Terminal,68v3k2rbsi,2018-7-4
+139,70000059,Lam-Jun,Tumbes,dap7pgbswa,2018-4-26
+140,70000020,Anc-San,Oficina Bolivar,3lqj1q114p,2018-4-21
+141,70000093,Hua-Tac,Talara,ff846e161i,2018-1-20
+142,70000029,Pas-Pun,Tumbes,u592u4uu43,2018-11-16
+143,70000021,La -Tac,Talara,be4066fg87,2018-1-11
+144,70000037,Tac-Hua,Sullana,ff846e161i,2018-6-16
+145,70000087,Tac-Cus,Sullana,7noi2j3lst,2018-12-6
+146,70000006,Caj-Piu,Chimbote,82143v2172,2018-8-3
+147,70000013,Cal-Mad,Lima,m68o1h64fk,2018-11-26
+148,70000091,Lam-Lor,Oficina Bolivar,62e66o88ei,2018-5-7
+149,70000032,Cal-Moq,Tumbes,m68o1h64fk,2018-4-28
+150,70000063,Cal-Lam,Sullana,u592u4uu43,2018-10-9
+151,70000086,Tum-Hua,Sullana,gcp6d6cfi6,2018-2-26
+152,70000090,Moq-Lor,Talara,qrrir0371h,2018-7-20
+153,70000035,San-Pas,Tumbes,vp47k39f27,2018-1-16
+154,70000040,Hua-Ama,Lima,dap7pgbswa,2018-1-1
+155,70000041,Cal-Mad,Oficina Juan Pablo,t5d06vsm3k,2018-5-1
+156,70000039,Aya-La ,Oficina Juan Pablo,m3d8pe876m,2018-12-10
+157,70000037,Ama-Lim,Oficina Bolivar,u8mo4io663,2018-3-11
+158,70000010,Cal-Lam,Máncora,6js970390d,2018-4-16
+159,70000032,Hua-Ama,Oficina Juan Pablo,qwx5fm9g14,2018-10-9
+160,70000072,Aya-La ,Chiclayo,tk99w07x9j,2018-2-9
+161,70000087,Lam-Jun,Oficina Juan Pablo,uor703l050,2018-1-23
+162,70000036,Moq-Lor,Paita,uor703l050,2018-2-7
+163,70000057,La -Tac,Máncora,be4066fg87,2018-9-23
+164,70000008,Pas-Are,Los Organos,m68o1h64fk,2018-6-19
+165,70000001,Hua-San,Terrapuerto Trujillo,j1gt0974q6,2018-10-27
+166,70000005,Pun-Mad,Máncora,qrrir0371h,2018-12-7
+167,70000099,Ama-Lim,Piura Terminal,73m027s63t,2018-4-18
+168,70000033,Moq-Lor,Talara,80qrpkh8o6,2018-2-22
+169,70000051,Ama-Lim,Chimbote,m3d8pe876m,2018-7-16
+170,70000079,Pun-San,Paita,gcp6d6cfi6,2018-5-18
+171,70000074,Ama-Lor,Piura Terminal,m3d8pe876m,2018-8-6
+172,70000050,Tum-Are,Terrapuerto Trujillo,7ov3ae77nd,2018-2-1
+173,70000004,Hua-Ama,Tumbes,qrrir0371h,2018-8-19
+174,70000095,Tum-Are,Terrapuerto Trujillo,1e5g1s82w2,2018-3-27
+175,70000076,Pun-San,Terrapuerto Trujillo,gcp6d6cfi6,2018-2-19
+176,70000086,Caj-Piu,Los Organos,m68o1h64fk,2018-4-16
+177,70000005,Pun-San,Sullana,dap7pgbswa,2018-6-20
+178,70000042,San-Pas,Chiclayo,73m027s63t,2018-12-26
+179,70000057,Moq-Lor,Oficina Juan Pablo,1e5g1s82w2,2018-12-14
+180,70000003,Tum-Are,Paita Terminal,be4066fg87,2018-8-9
+181,70000076,Caj-Piu,Tumbes,43g29m751q,2018-6-24
+182,70000008,Tac-Cus,Chimbote,hc3gi58653,2018-2-15
+183,70000009,Ama-Lor,Los Organos,7ov3ae77nd,2018-4-24
+184,70000020,Pas-Are,Sullana,7ov3ae77nd,2018-10-25
+185,70000013,Lam-Lor,Plaza Norte,dd0n15wq86,2018-3-11
+186,70000068,Anc-San,Terrapuerto Trujillo,80qrpkh8o6,2018-3-6
+187,70000080,Hua-Jun,Máncora,vp47k39f27,2018-9-7
+188,70000052,Anc-San,Plaza Norte,m68o1h64fk,2018-6-2
+189,70000027,Lam-Lor,Chimbote,gcp6d6cfi6,2018-10-3
+190,70000016,Pas-Pun,Plaza Norte,7ov3ae77nd,2018-3-17
+191,70000041,Hua-Tac,Terrapuerto Trujillo,j1gt0974q6,2018-12-6
+192,70000015,Cal-Mad,Los Organos,5hjad9h85f,2018-6-21
+193,70000085,San-Pas,Chiclayo,68v3k2rbsi,2018-10-4
+194,70000084,Tac-Jun,Lima,6js970390d,2018-9-28
+195,70000059,Cus-Pas,Paita,433939bvap,2018-12-1
+196,70000002,Caj-Piu,Chiclayo,hoc13tqn10,2018-7-19
+197,70000086,Hua-Tac,Lima,j1gt0974q6,2018-1-4
+198,70000021,Tum-Hua,Máncora,4fc3h2652s,2018-2-14
+199,70000075,Tac-Jun,Lima,qwx5fm9g14,2018-4-22
+200,70000099,Hua-Cus,Los Organos,qrrir0371h,2018-2-17
+201,70000057,Cal-Moq,Piura Terminal,m68o1h64fk,2018-1-27
+202,70000062,Anc-San,Paita,43g29m751q,2018-5-21
+203,70000047,Ama-Lor,Lima,4fc3h2652s,2018-2-28
+204,70000004,La -Tac,Sullana,j1gt0974q6,2018-9-18
+205,70000006,Aya-Moq,Piura Terminal,68v3k2rbsi,2018-2-18
+206,70000095,Ama-Lim,Chiclayo,qwx5fm9g14,2018-11-26
+207,70000094,Pun-Mad,Los Organos,dap7pgbswa,2018-10-12
+208,70000042,Hua-San,Oficina Juan Pablo,dd0n15wq86,2018-5-7
+209,70000079,Tac-Hua,Los Organos,1e5g1s82w2,2018-7-27
+210,70000006,Lam-Lor,Oficina Juan Pablo,62e66o88ei,2018-5-4
+211,70000059,Cal-Lam,Piura Terminal,5hjad9h85f,2018-12-24
+212,70000004,Aya-La ,Paita,d57o4t8x02,2018-9-10
+213,70000035,Hua-Ama,Talara,43g29m751q,2018-11-22
+214,70000070,San-Pas,Oficina Bolivar,d57o4t8x02,2018-11-5
+215,70000035,Tum-Are,Talara,vp47k39f27,2018-11-1
+216,70000005,Aya-Moq,Paita Terminal,7noi2j3lst,2018-6-20
+217,70000050,Hua-Cus,Oficina Juan Pablo,dap7pgbswa,2018-10-26
+218,70000003,Lim-Are,Chiclayo,ja2saq9872,2018-2-26
+219,70000034,Aya-Moq,Tumbes,m68o1h64fk,2018-9-22
+220,70000000,Anc-Cal,Tumbes,d57o4t8x02,2018-6-1
+221,70000073,Tum-Are,Chiclayo,qrrir0371h,2018-5-28
+222,70000084,Ama-Lim,Sullana,62e66o88ei,2018-1-7
+223,70000019,Anc-Cal,Terrapuerto Trujillo,73m027s63t,2018-5-25
+224,70000016,Tac-Cus,Chiclayo,u8mo4io663,2018-7-10
+225,70000081,Hua-Ama,Plaza Norte,37405c0xw3,2018-11-14
+226,70000079,Hua-Ama,Chiclayo,qrrir0371h,2018-1-13
+227,70000040,Ama-Lor,Lima,u592u4uu43,2018-12-16
+228,70000059,Mad-Aya,Lima,7noi2j3lst,2018-6-23
+229,70000086,Ama-Lim,Oficina Juan Pablo,5hjad9h85f,2018-2-11
+230,70000096,Cus-Cal,Sullana,qwx5fm9g14,2018-2-8
+231,70000098,Ama-Lor,Máncora,j1gt0974q6,2018-11-20
+232,70000013,La -Tac,Lima,dd0n15wq86,2018-1-16
+233,70000027,Lam-Lor,Los Organos,1e5g1s82w2,2018-10-4
+234,70000020,Cal-Mad,Oficina Juan Pablo,43g29m751q,2018-11-19
+235,70000019,Lam-Jun,Plaza Norte,u8mo4io663,2018-12-15
+236,70000058,Tac-Cus,Lima,vp47k39f27,2018-3-23
+237,70000080,Hua-Tac,Máncora,m68o1h64fk,2018-9-10
+238,70000043,Pas-Aya,Chimbote,m3d8pe876m,2018-1-6
+239,70000039,Pun-Mad,Talara,80qrpkh8o6,2018-10-4
+240,70000095,Lim-Are,Plaza Norte,gcp6d6cfi6,2018-12-1
+241,70000090,Hua-Ama,Plaza Norte,gl27642271,2018-12-13
+242,70000028,San-Pas,Oficina Bolivar,be4066fg87,2018-4-13
+243,70000026,Anc-San,Talara,hc3gi58653,2018-11-24
+244,70000019,Tum-Are,Oficina Bolivar,uor703l050,2018-7-22
+245,70000074,Tum-Hua,Lima,ja2saq9872,2018-10-25
+246,70000080,Tum-Are,Plaza Norte,62e66o88ei,2018-3-6
+247,70000030,Cal-Lam,Chiclayo,7noi2j3lst,2018-8-20
+248,70000006,Lim-Are,Paita,vp47k39f27,2018-8-5
+249,70000060,Cal-Mad,Chiclayo,m3d8pe876m,2018-2-5
+250,70000005,Ama-Lim,Tumbes,dap7pgbswa,2018-9-8
+251,70000007,Lam-Lor,Talara,6js970390d,2018-3-26
+252,70000087,Aya-Moq,Chiclayo,73m027s63t,2018-3-3
+253,70000035,Cal-Lam,Máncora,m68o1h64fk,2018-6-7
+254,70000052,Lam-Lor,Chimbote,82143v2172,2018-7-7
+255,70000087,Tum-Are,Talara,j1gt0974q6,2018-11-11
+256,70000028,San-Pas,Oficina Bolivar,dd0n15wq86,2018-4-22
+257,70000041,La -Tac,Oficina Bolivar,jqxgc781dn,2018-6-9
+258,70000075,Pas-Aya,Tumbes,u8mo4io663,2018-6-7
+259,70000053,Caj-Piu,Los Organos,82143v2172,2018-5-23
+260,70000088,Anc-San,Sullana,433939bvap,2018-1-26
+261,70000012,Lim-Are,Paita,3lqj1q114p,2018-9-18
+262,70000015,Lam-Jun,Máncora,jqxgc781dn,2018-12-26
+263,70000005,Hua-San,Lima,jqxgc781dn,2018-10-19
+264,70000067,Pas-Pun,Oficina Bolivar,uor703l050,2018-2-17
+265,70000054,Hua-Tac,Sullana,m3d8pe876m,2018-4-8
+266,70000049,Caj-Piu,Tumbes,80qrpkh8o6,2018-10-21
+267,70000025,Anc-Cal,Sullana,6js970390d,2018-7-6
+268,70000050,Pun-Mad,Lima,uor703l050,2018-9-2
+269,70000066,Aya-La ,Paita Terminal,dap7pgbswa,2018-4-22
+270,70000010,Pun-San,Sullana,qrrir0371h,2018-11-2
+271,70000020,Hua-Ama,Lima,uor703l050,2018-4-22
+272,70000095,Ama-Lim,Talara,qrrir0371h,2018-11-1
+273,70000082,Aya-La ,Terrapuerto Trujillo,82143v2172,2018-4-25
+274,70000051,Caj-Piu,Plaza Norte,k0je235j2q,2018-8-28
+275,70000004,Ama-Lor,Oficina Bolivar,433939bvap,2018-3-4
+276,70000011,Cal-Mad,Terrapuerto Trujillo,37405c0xw3,2018-11-11
+277,70000064,Pun-Mad,Piura Terminal,37405c0xw3,2018-8-2
+278,70000015,Pas-Aya,Oficina Juan Pablo,37405c0xw3,2018-4-17
+279,70000039,Cus-Pas,Oficina Bolivar,5hjad9h85f,2018-6-26
+280,70000062,Ama-Lor,Oficina Bolivar,73m027s63t,2018-12-2
+281,70000010,Anc-Cal,Máncora,6js970390d,2018-10-19
+282,70000099,La -Tac,Máncora,dap7pgbswa,2018-6-27
+283,70000071,Lim-Are,Paita Terminal,d57o4t8x02,2018-12-24
+284,70000068,Aya-La ,Chiclayo,7noi2j3lst,2018-10-24
+285,70000056,Cal-Lam,Oficina Juan Pablo,4fc3h2652s,2018-12-25
+286,70000064,Cal-Lam,Lima,m3d8pe876m,2018-4-9
+287,70000022,Hua-Jun,Paita Terminal,dap7pgbswa,2018-9-8
+288,70000040,San-Pas,Los Organos,43g29m751q,2018-12-4
+289,70000084,Cal-Lam,Lima,ff846e161i,2018-11-8
+290,70000041,Tum-Tac,Los Organos,dap7pgbswa,2018-2-24
+291,70000083,Tum-Tac,Piura Terminal,gl27642271,2018-3-17
+292,70000050,Moq-Lor,Máncora,jqxgc781dn,2018-11-3
+293,70000020,Tum-Tac,Talara,d57o4t8x02,2018-8-5
+294,70000080,Pas-Aya,Plaza Norte,82143v2172,2018-2-6
+295,70000069,Lam-Lor,Los Organos,be4066fg87,2018-2-17
+296,70000012,Cal-Mad,Terrapuerto Trujillo,hoc13tqn10,2018-7-17
+297,70000053,Lim-Are,Máncora,5hjad9h85f,2018-11-16
+298,70000053,Anc-Cal,Talara,433939bvap,2018-4-14
+299,70000038,Anc-Cal,Paita Terminal,7h13999vl0,2018-10-19

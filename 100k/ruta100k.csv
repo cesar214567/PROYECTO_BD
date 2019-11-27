@@ -1,0 +1,551 @@
+id_ruta,Destino,Llegada
+San-Cal,San Martin,Callao
+Hua-Cus,Huanuco,Cusco
+Cus-Moq,Cusco,Moquegua
+Lam-La ,Lambayeque,La Libertad
+La -Caj,La Libertad,Cajamarca
+Aya-Hua,Ayacucho,Huancavelica
+Piu-Tac,Piura,Tacna
+Tum-Hua,Tumbes,Huanuco
+Anc-Moq,Ancash,Moquegua
+La -Uca,La Libertad,Ucayali
+Mad-Moq,Madre De Dios,Moquegua
+Lam-Ica,Lambayeque,Ica
+Pun-Cal,Puno,Callao
+Cal-Uca,Callao,Ucayali
+Caj-Pun,Cajamarca,Puno
+Jun-Are,Junin,Arequipa
+Anc-San,Ancash,San Martin
+Ica-Hua,Ica,Huancavelica
+Lor-Ama,Loreto,Amazonas
+Pun-Caj,Puno,Cajamarca
+Cus-Anc,Cusco,Ancash
+Lam-Are,Lambayeque,Arequipa
+Tum-Lam,Tumbes,Lambayeque
+Cus-Apu,Cusco,Apurimac
+Uca-Anc,Ucayali,Ancash
+San-Lim,San Martin,Lima
+Jun-Piu,Junin,Piura
+Tum-Moq,Tumbes,Moquegua
+Pas-Are,Pasco,Arequipa
+La -Aya,La Libertad,Ayacucho
+Hua-Lor,Huancavelica,Loreto
+Apu-Pun,Apurimac,Puno
+Tum-Pun,Tumbes,Puno
+Ama-Aya,Amazonas,Ayacucho
+Tac-Lor,Tacna,Loreto
+Ica-Pun,Ica,Puno
+Are-Ama,Arequipa,Amazonas
+Tac-Jun,Tacna,Junin
+Aya-Tum,Ayacucho,Tumbes
+La -Apu,La Libertad,Apurimac
+Lam-Ama,Lambayeque,Amazonas
+San-Jun,San Martin,Junin
+Moq-Mad,Moquegua,Madre De Dios
+Mad-Cal,Madre De Dios,Callao
+Tum-Uca,Tumbes,Ucayali
+San-Ama,San Martin,Amazonas
+Piu-San,Piura,San Martin
+Pun-Mad,Puno,Madre De Dios
+Mad-Tac,Madre De Dios,Tacna
+Pun-Lam,Puno,Lambayeque
+La -Cus,La Libertad,Cusco
+Jun-Pas,Junin,Pasco
+Cus-Hua,Cusco,Huancavelica
+Aya-Jun,Ayacucho,Junin
+Cus-Pas,Cusco,Pasco
+Lim-Tac,Lima,Tacna
+Pas-La ,Pasco,La Libertad
+Hua-La ,Huancavelica,La Libertad
+Aya-Uca,Ayacucho,Ucayali
+Pas-Apu,Pasco,Apurimac
+Tum-Mad,Tumbes,Madre De Dios
+Aya-Piu,Ayacucho,Piura
+Ica-Caj,Ica,Cajamarca
+Anc-Cus,Ancash,Cusco
+Lor-Cus,Loreto,Cusco
+Hua-Uca,Huanuco,Ucayali
+Moq-Lor,Moquegua,Loreto
+Lam-Anc,Lambayeque,Ancash
+Hua-Aya,Huancavelica,Ayacucho
+Tum-Are,Tumbes,Arequipa
+Lor-Tac,Loreto,Tacna
+Cus-Ica,Cusco,Ica
+Uca-Cus,Ucayali,Cusco
+Anc-Cal,Ancash,Callao
+Anc-Lor,Ancash,Loreto
+Hua-Lam,Huancavelica,Lambayeque
+Pun-Hua,Puno,Huanuco
+Ama-Lam,Amazonas,Lambayeque
+Ama-Hua,Amazonas,Huanuco
+Lim-Pas,Lima,Pasco
+Anc-Apu,Ancash,Apurimac
+San-Hua,San Martin,Huanuco
+Cal-Pun,Callao,Puno
+La -Ama,La Libertad,Amazonas
+Are-Apu,Arequipa,Apurimac
+Tac-Lam,Tacna,Lambayeque
+Pun-Lor,Puno,Loreto
+Caj-Uca,Cajamarca,Ucayali
+Caj-Lor,Cajamarca,Loreto
+Lim-Are,Lima,Arequipa
+Anc-La ,Ancash,La Libertad
+San-Aya,San Martin,Ayacucho
+Apu-Uca,Apurimac,Ucayali
+Lor-Moq,Loreto,Moquegua
+Piu-Moq,Piura,Moquegua
+San-Lor,San Martin,Loreto
+Anc-Caj,Ancash,Cajamarca
+La -Mad,La Libertad,Madre De Dios
+Caj-Pas,Cajamarca,Pasco
+Pun-Apu,Puno,Apurimac
+Cal-Hua,Callao,Huancavelica
+Anc-Are,Ancash,Arequipa
+Tum-Piu,Tumbes,Piura
+Hua-Hua,Huancavelica,Huanuco
+Ica-Piu,Ica,Piura
+Caj-Aya,Cajamarca,Ayacucho
+Jun-Anc,Junin,Ancash
+Cal-Lam,Callao,Lambayeque
+Apu-Anc,Apurimac,Ancash
+Mad-Ica,Madre De Dios,Ica
+Are-Pas,Arequipa,Pasco
+Tac-Anc,Tacna,Ancash
+Lim-Ica,Lima,Ica
+Are-Tum,Arequipa,Tumbes
+Cal-Lim,Callao,Lima
+Moq-Ica,Moquegua,Ica
+Hua-Anc,Huanuco,Ancash
+Pun-Moq,Puno,Moquegua
+Lim-Uca,Lima,Ucayali
+San-Cus,San Martin,Cusco
+Tum-Caj,Tumbes,Cajamarca
+Cus-La ,Cusco,La Libertad
+Tum-Pas,Tumbes,Pasco
+Lam-Aya,Lambayeque,Ayacucho
+Uca-Are,Ucayali,Arequipa
+La -Ica,La Libertad,Ica
+Aya-Cus,Ayacucho,Cusco
+Are-San,Arequipa,San Martin
+Ica-Cus,Ica,Cusco
+Piu-Jun,Piura,Junin
+Hua-Tum,Huancavelica,Tumbes
+Ama-Pas,Amazonas,Pasco
+La -Hua,La Libertad,Huanuco
+Uca-Ica,Ucayali,Ica
+Aya-La ,Ayacucho,La Libertad
+Lor-Lam,Loreto,Lambayeque
+Lam-Mad,Lambayeque,Madre De Dios
+Pas-Ama,Pasco,Amazonas
+Anc-Ama,Ancash,Amazonas
+Hua-Cal,Huanuco,Callao
+Cus-Are,Cusco,Arequipa
+Lam-Pun,Lambayeque,Puno
+Jun-Hua,Junin,Huancavelica
+Cal-Apu,Callao,Apurimac
+Uca-Mad,Ucayali,Madre De Dios
+Ama-Anc,Amazonas,Ancash
+Hua-Lim,Huanuco,Lima
+Apu-Mad,Apurimac,Madre De Dios
+Cal-Jun,Callao,Junin
+Ica-Uca,Ica,Ucayali
+Uca-Tum,Ucayali,Tumbes
+Pas-Uca,Pasco,Ucayali
+Are-Hua,Arequipa,Huancavelica
+Pas-Moq,Pasco,Moquegua
+Pun-San,Puno,San Martin
+Lor-La ,Loreto,La Libertad
+Tum-La ,Tumbes,La Libertad
+Cal-Aya,Callao,Ayacucho
+Cal-La ,Callao,La Libertad
+Caj-Cus,Cajamarca,Cusco
+La -Tum,La Libertad,Tumbes
+Cus-Caj,Cusco,Cajamarca
+Ama-Ica,Amazonas,Ica
+Lam-Tum,Lambayeque,Tumbes
+Are-Piu,Arequipa,Piura
+Anc-Tum,Ancash,Tumbes
+Moq-Tac,Moquegua,Tacna
+Aya-Tac,Ayacucho,Tacna
+Piu-Caj,Piura,Cajamarca
+Piu-Lor,Piura,Loreto
+Lim-Apu,Lima,Apurimac
+Moq-Aya,Moquegua,Ayacucho
+Apu-Pas,Apurimac,Pasco
+Lam-Caj,Lambayeque,Cajamarca
+Lim-Moq,Lima,Moquegua
+Cal-Cus,Callao,Cusco
+Mad-Lam,Madre De Dios,Lambayeque
+La -Tac,La Libertad,Tacna
+Ica-Cal,Ica,Callao
+Apu-San,Apurimac,San Martin
+Cal-Are,Callao,Arequipa
+Cus-Cal,Cusco,Callao
+Ica-Lor,Ica,Loreto
+Moq-Anc,Moquegua,Ancash
+Anc-Ica,Ancash,Ica
+Mad-Lor,Madre De Dios,Loreto
+San-La ,San Martin,La Libertad
+Mad-Anc,Madre De Dios,Ancash
+Hua-Caj,Huanuco,Cajamarca
+Cus-Uca,Cusco,Ucayali
+La -Moq,La Libertad,Moquegua
+Lim-Lor,Lima,Loreto
+Piu-La ,Piura,La Libertad
+Lor-Ica,Loreto,Ica
+Ama-Cus,Amazonas,Cusco
+Ica-Tum,Ica,Tumbes
+Tac-Ica,Tacna,Ica
+Cal-Tum,Callao,Tumbes
+Piu-Uca,Piura,Ucayali
+Ama-Apu,Amazonas,Apurimac
+Hua-Jun,Huanuco,Junin
+Hua-Mad,Huanuco,Madre De Dios
+Jun-Tum,Junin,Tumbes
+Hua-Ama,Huancavelica,Amazonas
+Are-Uca,Arequipa,Ucayali
+Tum-Cal,Tumbes,Callao
+Mad-Hua,Madre De Dios,Huanuco
+Lim-Mad,Lima,Madre De Dios
+Apu-Tac,Apurimac,Tacna
+Pun-Ama,Puno,Amazonas
+Mad-Jun,Madre De Dios,Junin
+Ica-Anc,Ica,Ancash
+Pun-Uca,Puno,Ucayali
+Uca-La ,Ucayali,La Libertad
+Tum-Jun,Tumbes,Junin
+Hua-Ica,Huanuco,Ica
+Lam-Tac,Lambayeque,Tacna
+Hua-Moq,Huancavelica,Moquegua
+Piu-Ama,Piura,Amazonas
+Are-Ica,Arequipa,Ica
+La -Piu,La Libertad,Piura
+Cus-Piu,Cusco,Piura
+Apu-Caj,Apurimac,Cajamarca
+Caj-Are,Cajamarca,Arequipa
+Uca-Aya,Ucayali,Ayacucho
+Uca-Apu,Ucayali,Apurimac
+Lor-Caj,Loreto,Cajamarca
+Mad-Pun,Madre De Dios,Puno
+Ama-Are,Amazonas,Arequipa
+Aya-Caj,Ayacucho,Cajamarca
+Pun-Tac,Puno,Tacna
+San-Uca,San Martin,Ucayali
+Tac-Pas,Tacna,Pasco
+Apu-Tum,Apurimac,Tumbes
+Tac-Piu,Tacna,Piura
+Caj-Lim,Cajamarca,Lima
+Tum-Cus,Tumbes,Cusco
+Lor-Jun,Loreto,Junin
+Apu-Hua,Apurimac,Huancavelica
+Piu-Lam,Piura,Lambayeque
+Hua-Are,Huancavelica,Arequipa
+Aya-Moq,Ayacucho,Moquegua
+Uca-Hua,Ucayali,Huanuco
+Mad-Lim,Madre De Dios,Lima
+Ica-Tac,Ica,Tacna
+Tum-Anc,Tumbes,Ancash
+Lim-Hua,Lima,Huancavelica
+Lam-Cus,Lambayeque,Cusco
+Anc-Hua,Ancash,Huancavelica
+San-Lam,San Martin,Lambayeque
+Mad-Ama,Madre De Dios,Amazonas
+Hua-Pas,Huanuco,Pasco
+Lor-Apu,Loreto,Apurimac
+Hua-Apu,Huanuco,Apurimac
+Pun-Pas,Puno,Pasco
+Cus-Aya,Cusco,Ayacucho
+Piu-Pun,Piura,Puno
+Jun-Uca,Junin,Ucayali
+Lor-Lim,Loreto,Lima
+Ica-La ,Ica,La Libertad
+Pas-Tum,Pasco,Tumbes
+Pas-Ica,Pasco,Ica
+Lor-Anc,Loreto,Ancash
+Apu-Ica,Apurimac,Ica
+Ama-Jun,Amazonas,Junin
+Lim-Pun,Lima,Puno
+San-Tac,San Martin,Tacna
+Moq-Hua,Moquegua,Huancavelica
+Jun-Pun,Junin,Puno
+Tum-Lim,Tumbes,Lima
+Moq-Tum,Moquegua,Tumbes
+Uca-Jun,Ucayali,Junin
+Pun-Anc,Puno,Ancash
+Cal-Mad,Callao,Madre De Dios
+Pun-Cus,Puno,Cusco
+Lim-Ama,Lima,Amazonas
+Tum-Ama,Tumbes,Amazonas
+Moq-Pun,Moquegua,Puno
+Ama-Mad,Amazonas,Madre De Dios
+Apu-La ,Apurimac,La Libertad
+Tac-Lim,Tacna,Lima
+Aya-Ica,Ayacucho,Ica
+Aya-Cal,Ayacucho,Callao
+Hua-San,Huancavelica,San Martin
+Are-Lor,Arequipa,Loreto
+Cal-Tac,Callao,Tacna
+Cal-Caj,Callao,Cajamarca
+Anc-Jun,Ancash,Junin
+Ama-Pun,Amazonas,Puno
+Lim-Caj,Lima,Cajamarca
+Tac-Pun,Tacna,Puno
+Pas-Lim,Pasco,Lima
+Uca-Pun,Ucayali,Puno
+Tac-Hua,Tacna,Huanuco
+Pas-Jun,Pasco,Junin
+Cus-San,Cusco,San Martin
+Piu-Cal,Piura,Callao
+Lor-Aya,Loreto,Ayacucho
+Aya-Are,Ayacucho,Arequipa
+Ama-Uca,Amazonas,Ucayali
+Hua-Pun,Huancavelica,Puno
+Tac-Moq,Tacna,Moquegua
+Hua-Piu,Huancavelica,Piura
+Uca-Caj,Ucayali,Cajamarca
+Mad-Are,Madre De Dios,Arequipa
+Tac-Caj,Tacna,Cajamarca
+Apu-Piu,Apurimac,Piura
+Aya-Lim,Ayacucho,Lima
+Mad-La ,Madre De Dios,La Libertad
+Pas-Hua,Pasco,Huanuco
+Jun-Lam,Junin,Lambayeque
+Are-Mad,Arequipa,Madre De Dios
+Pun-Ica,Puno,Ica
+Piu-Aya,Piura,Ayacucho
+Moq-Uca,Moquegua,Ucayali
+Tum-San,Tumbes,San Martin
+La -Pun,La Libertad,Puno
+Mad-Cus,Madre De Dios,Cusco
+Tum-Lor,Tumbes,Loreto
+Anc-Pas,Ancash,Pasco
+Anc-Tac,Ancash,Tacna
+Piu-Ica,Piura,Ica
+Pas-San,Pasco,San Martin
+Ica-Apu,Ica,Apurimac
+Tac-Cus,Tacna,Cusco
+Caj-Lam,Cajamarca,Lambayeque
+Ama-Piu,Amazonas,Piura
+Pas-Tac,Pasco,Tacna
+Cus-Ama,Cusco,Amazonas
+Lor-Tum,Loreto,Tumbes
+Lor-Piu,Loreto,Piura
+Caj-Tac,Cajamarca,Tacna
+San-Pun,San Martin,Puno
+Piu-Tum,Piura,Tumbes
+Aya-Lam,Ayacucho,Lambayeque
+Aya-Pas,Ayacucho,Pasco
+Lam-Lor,Lambayeque,Loreto
+Lor-Hua,Loreto,Huancavelica
+Lim-San,Lima,San Martin
+San-Apu,San Martin,Apurimac
+Lam-Moq,Lambayeque,Moquegua
+Apu-Jun,Apurimac,Junin
+Cus-Jun,Cusco,Junin
+San-Tum,San Martin,Tumbes
+Moq-Ama,Moquegua,Amazonas
+Jun-Ica,Junin,Ica
+Mad-Aya,Madre De Dios,Ayacucho
+Mad-Pas,Madre De Dios,Pasco
+Moq-Cus,Moquegua,Cusco
+Mad-Tum,Madre De Dios,Tumbes
+Aya-Ama,Ayacucho,Amazonas
+Lam-Pas,Lambayeque,Pasco
+Anc-Uca,Ancash,Ucayali
+Uca-Tac,Ucayali,Tacna
+Anc-Aya,Ancash,Ayacucho
+Tum-Tac,Tumbes,Tacna
+Ama-Lim,Amazonas,Lima
+Tac-Are,Tacna,Arequipa
+Pun-Are,Puno,Arequipa
+Are-Jun,Arequipa,Junin
+Piu-Mad,Piura,Madre De Dios
+Are-Cus,Arequipa,Cusco
+Uca-Piu,Ucayali,Piura
+Ica-Lam,Ica,Lambayeque
+Cal-Pas,Callao,Pasco
+Are-Cal,Arequipa,Callao
+Moq-Cal,Moquegua,Callao
+Caj-Ica,Cajamarca,Ica
+Pun-Jun,Puno,Junin
+Cal-Ama,Callao,Amazonas
+Piu-Anc,Piura,Ancash
+Moq-Pas,Moquegua,Pasco
+Anc-Lim,Ancash,Lima
+Caj-Hua,Cajamarca,Huancavelica
+Tac-Apu,Tacna,Apurimac
+La -Jun,La Libertad,Junin
+Moq-Lam,Moquegua,Lambayeque
+Pun-Tum,Puno,Tumbes
+Piu-Cus,Piura,Cusco
+Are-Tac,Arequipa,Tacna
+Tac-Cal,Tacna,Callao
+Lor-San,Loreto,San Martin
+Apu-Lim,Apurimac,Lima
+Apu-Lam,Apurimac,Lambayeque
+Pas-Pun,Pasco,Puno
+Ica-Are,Ica,Arequipa
+Ama-Tac,Amazonas,Tacna
+Uca-Ama,Ucayali,Amazonas
+Uca-Moq,Ucayali,Moquegua
+Cal-Piu,Callao,Piura
+Pas-Cal,Pasco,Callao
+Caj-San,Cajamarca,San Martin
+Jun-Lor,Junin,Loreto
+Tac-San,Tacna,San Martin
+Anc-Piu,Ancash,Piura
+Lam-Jun,Lambayeque,Junin
+Cus-Tum,Cusco,Tumbes
+Lor-Are,Loreto,Arequipa
+San-Pas,San Martin,Pasco
+Pas-Piu,Pasco,Piura
+Anc-Lam,Ancash,Lambayeque
+Cus-Lim,Cusco,Lima
+Anc-Pun,Ancash,Puno
+Aya-Apu,Ayacucho,Apurimac
+Uca-Lor,Ucayali,Loreto
+Moq-Piu,Moquegua,Piura
+Aya-San,Ayacucho,San Martin
+Tum-Apu,Tumbes,Apurimac
+Are-Pun,Arequipa,Puno
+Lim-Lam,Lima,Lambayeque
+San-Mad,San Martin,Madre De Dios
+Moq-San,Moquegua,San Martin
+Uca-Lim,Ucayali,Lima
+Mad-Apu,Madre De Dios,Apurimac
+Apu-Lor,Apurimac,Loreto
+San-Are,San Martin,Arequipa
+Moq-Apu,Moquegua,Apurimac
+Ica-Jun,Ica,Junin
+Tum-Ica,Tumbes,Ica
+Lam-Hua,Lambayeque,Huancavelica
+Jun-San,Junin,San Martin
+Apu-Ama,Apurimac,Amazonas
+Jun-Cus,Junin,Cusco
+Caj-Mad,Cajamarca,Madre De Dios
+La -Lim,La Libertad,Lima
+Jun-Mad,Junin,Madre De Dios
+Aya-Pun,Ayacucho,Puno
+Are-Lam,Arequipa,Lambayeque
+Pas-Caj,Pasco,Cajamarca
+Ica-Ama,Ica,Amazonas
+San-Caj,San Martin,Cajamarca
+Aya-Anc,Ayacucho,Ancash
+Ama-Lor,Amazonas,Loreto
+Pun-La ,Puno,La Libertad
+Moq-Caj,Moquegua,Cajamarca
+Ama-Caj,Amazonas,Cajamarca
+Lim-Cus,Lima,Cusco
+Hua-Tac,Huanuco,Tacna
+Cus-Pun,Cusco,Puno
+Uca-Cal,Ucayali,Callao
+Cus-Lam,Cusco,Lambayeque
+Are-Aya,Arequipa,Ayacucho
+Pas-Anc,Pasco,Ancash
+Jun-Apu,Junin,Apurimac
+Jun-Tac,Junin,Tacna
+Pas-Aya,Pasco,Ayacucho
+Apu-Aya,Apurimac,Ayacucho
+Are-Anc,Arequipa,Ancash
+Lam-San,Lambayeque,San Martin
+Aya-Lor,Ayacucho,Loreto
+Lim-Aya,Lima,Ayacucho
+Lam-Lim,Lambayeque,Lima
+Pun-Piu,Puno,Piura
+Lim-Anc,Lima,Ancash
+Tum-Aya,Tumbes,Ayacucho
+Are-Moq,Arequipa,Moquegua
+Apu-Are,Apurimac,Arequipa
+Lam-Apu,Lambayeque,Apurimac
+Cal-Lor,Callao,Loreto
+Lam-Cal,Lambayeque,Callao
+Apu-Cal,Apurimac,Callao
+Pas-Cus,Pasco,Cusco
+Ica-Aya,Ica,Ayacucho
+Ama-La ,Amazonas,La Libertad
+Uca-San,Ucayali,San Martin
+Aya-Mad,Ayacucho,Madre De Dios
+Apu-Moq,Apurimac,Moquegua
+Tac-Tum,Tacna,Tumbes
+Piu-Apu,Piura,Apurimac
+Lor-Pun,Loreto,Puno
+Cal-San,Callao,San Martin
+Caj-Tum,Cajamarca,Tumbes
+Jun-Ama,Junin,Amazonas
+Pas-Lor,Pasco,Loreto
+Caj-Jun,Cajamarca,Junin
+Cal-Moq,Callao,Moquegua
+Pas-Mad,Pasco,Madre De Dios
+Jun-Caj,Junin,Cajamarca
+Caj-La ,Cajamarca,La Libertad
+Ica-Moq,Ica,Moquegua
+San-Moq,San Martin,Moquegua
+La -Are,La Libertad,Arequipa
+Moq-Lim,Moquegua,Lima
+San-Anc,San Martin,Ancash
+Pun-Aya,Puno,Ayacucho
+Ama-Tum,Amazonas,Tumbes
+Tac-Uca,Tacna,Ucayali
+Lim-La ,Lima,La Libertad
+Ica-San,Ica,San Martin
+Tac-La ,Tacna,La Libertad
+La -Lor,La Libertad,Loreto
+Moq-Are,Moquegua,Arequipa
+Mad-Piu,Madre De Dios,Piura
+Pun-Lim,Puno,Lima
+Caj-Apu,Cajamarca,Apurimac
+Lam-Uca,Lambayeque,Ucayali
+San-Ica,San Martin,Ica
+Apu-Cus,Apurimac,Cusco
+Jun-Lim,Junin,Lima
+Lor-Mad,Loreto,Madre De Dios
+Tac-Ama,Tacna,Amazonas
+Ica-Lim,Ica,Lima
+Lor-Cal,Loreto,Callao
+Moq-Jun,Moquegua,Junin
+Cal-Anc,Callao,Ancash
+Mad-San,Madre De Dios,San Martin
+Jun-Moq,Junin,Moquegua
+Are-La ,Arequipa,La Libertad
+Caj-Anc,Cajamarca,Ancash
+Piu-Pas,Piura,Pasco
+Uca-Lam,Ucayali,Lambayeque
+Uca-Pas,Ucayali,Pasco
+Cus-Lor,Cusco,Loreto
+Lam-Piu,Lambayeque,Piura
+Mad-Caj,Madre De Dios,Cajamarca
+Ama-Cal,Amazonas,Callao
+Lim-Piu,Lima,Piura
+Jun-La ,Junin,La Libertad
+Lim-Cal,Lima,Callao
+Piu-Hua,Piura,Huanuco
+Anc-Mad,Ancash,Madre De Dios
+Moq-La ,Moquegua,La Libertad
+Lor-Uca,Loreto,Ucayali
+Are-Caj,Arequipa,Cajamarca
+Mad-Uca,Madre De Dios,Ucayali
+Cus-Mad,Cusco,Madre De Dios
+Caj-Piu,Cajamarca,Piura
+Lor-Pas,Loreto,Pasco
+La -San,La Libertad,San Martin
+Lim-Tum,Lima,Tumbes
+Tac-Mad,Tacna,Madre De Dios
+Ama-San,Amazonas,San Martin
+La -Anc,La Libertad,Ancash
+Ama-Moq,Amazonas,Moquegua
+Tac-Aya,Tacna,Ayacucho
+Are-Lim,Arequipa,Lima
+Jun-Aya,Junin,Ayacucho
+La -Pas,La Libertad,Pasco
+Ica-Pas,Ica,Pasco
+Caj-Ama,Cajamarca,Amazonas
+La -Cal,La Libertad,Callao
+Pas-Lam,Pasco,Lambayeque
+Piu-Are,Piura,Arequipa
+Cus-Tac,Cusco,Tacna
+Cal-Ica,Callao,Ica
+Jun-Cal,Junin,Callao
+Piu-Lim,Piura,Lima
+San-Piu,San Martin,Piura
+La -Lam,La Libertad,Lambayeque
+Lim-Jun,Lima,Junin
